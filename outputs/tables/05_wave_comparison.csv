@@ -1,0 +1,6 @@
+﻿channel,wave_1,wave_2,change,p_value,significant_5pct
+Email,78.4,80.5,2.1,0.3864,False
+Telephone,70.6,71.3,0.7,0.8061,False
+Social media,57.8,63.3,5.5,0.0702,False
+Registry,82.4,84.0,1.6,0.4554,False
+Ancillary services,61.4,66.0,4.6,0.0824,False

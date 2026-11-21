@@ -1,0 +1,11 @@
+﻿criterion,dimension,question,channel,n,full_pass_pct,fail_pct
+RT2,Response time,Was an expected resolution time communicated?,Social media,120,20.8,35.8
+RT1,Response time,Was the first response received within the service standard for this channel?,Social media,120,23.3,59.2
+IA2,Information accuracy,"Was the information complete (documents, fees, timelines)?",Ancillary services,120,28.3,34.2
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",Ancillary services,120,29.2,32.5
+IA1,Information accuracy,Was the information provided correct against the published procedure?,Ancillary services,120,30.0,37.5
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,Telephone,119,33.6,29.4
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,Ancillary services,120,35.0,22.5
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",Social media,120,35.8,28.3
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",Telephone,118,38.1,31.4
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",Social media,120,40.0,22.5

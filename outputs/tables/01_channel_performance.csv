@@ -1,0 +1,7 @@
+﻿channel,visits,sqi,ci_low,ci_high,visits_meeting_target_pct,response_standard_met_pct,median_response_min,first_contact_resolution_pct,sqi_sd,sqi_cv_pct,critical_visits_pct,nps_demo
+Email,119,79.5,77.1,81.8,52.1,70.6,1072.2,53.8,13.0,16.4,10.1,44.9
+Telephone,119,70.9,68.1,73.7,28.6,61.3,0.8,33.6,15.3,21.6,22.7,28.0
+Social media,120,60.6,57.6,63.6,9.2,22.5,210.4,41.7,16.7,27.5,47.5,-15.8
+Registry,119,83.2,81.1,85.3,68.9,80.7,9.3,61.3,11.5,13.9,0.8,58.8
+Ancillary services,120,63.7,61.0,66.3,13.3,60.0,14.8,35.0,14.6,22.9,41.7,0.8
+All channels,597,71.5,70.2,72.9,34.3,59.0,21.1,45.1,16.8,23.4,24.6,23.2

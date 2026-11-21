@@ -1,0 +1,18 @@
+﻿criterion,dimension,question,dimension_weight
+RT1,Response time,Was the first response received within the service standard for this channel?,0.15
+RT2,Response time,Was an expected resolution time communicated?,0.15
+CQ1,Communication quality,Was the response clear and free of unexplained jargon?,0.15
+CQ2,Communication quality,Was the response offered or provided in the customer's preferred language (Arabic / English)?,0.15
+CQ3,Communication quality,Was the written response well structured and free of errors?,0.15
+CQ4,Communication quality,Did the agent listen without interrupting and confirm understanding?,0.15
+PR1,Professionalism,Was the customer greeted courteously and addressed respectfully?,0.15
+PR2,Professionalism,Did the staff member identify themselves (name or ID)?,0.15
+PR3,Professionalism,"Did the staff member keep a neutral, impartial tone (no legal advice given)?",0.15
+IA1,Information accuracy,Was the information provided correct against the published procedure?,0.25
+IA2,Information accuracy,"Was the information complete (documents, fees, timelines)?",0.25
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",0.25
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,0.2
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",0.2
+RE3,Resolution effectiveness,"Was the transaction completed correctly (documents accepted, receipt issued)?",0.2
+CX1,Customer experience,"Was the environment / channel easy to use (signage, menus, accessibility)?",0.1
+CX2,Customer experience,Did the interaction feel efficient overall?,0.1

@@ -1,0 +1,77 @@
+﻿criterion,dimension,question,channel,n,full_pass_pct,fail_pct
+RT1,Response time,Was the first response received within the service standard for this channel?,Email,118,70.3,14.4
+RT1,Response time,Was the first response received within the service standard for this channel?,Telephone,118,61.9,21.2
+RT1,Response time,Was the first response received within the service standard for this channel?,Social media,120,23.3,59.2
+RT1,Response time,Was the first response received within the service standard for this channel?,Registry,119,81.5,8.4
+RT1,Response time,Was the first response received within the service standard for this channel?,Ancillary services,120,60.0,19.2
+RT2,Response time,Was an expected resolution time communicated?,Email,119,59.7,16.0
+RT2,Response time,Was an expected resolution time communicated?,Telephone,119,51.3,19.3
+RT2,Response time,Was an expected resolution time communicated?,Social media,120,20.8,35.8
+RT2,Response time,Was an expected resolution time communicated?,Registry,119,73.1,10.9
+RT2,Response time,Was an expected resolution time communicated?,Ancillary services,119,44.5,22.7
+CQ1,Communication quality,Was the response clear and free of unexplained jargon?,Email,119,79.8,4.2
+CQ1,Communication quality,Was the response clear and free of unexplained jargon?,Telephone,119,70.6,7.6
+CQ1,Communication quality,Was the response clear and free of unexplained jargon?,Social media,120,58.3,12.5
+CQ1,Communication quality,Was the response clear and free of unexplained jargon?,Registry,119,79.0,3.4
+CQ1,Communication quality,Was the response clear and free of unexplained jargon?,Ancillary services,120,52.5,12.5
+CQ2,Communication quality,Was the response offered or provided in the customer's preferred language (Arabic / English)?,Email,119,78.2,10.1
+CQ2,Communication quality,Was the response offered or provided in the customer's preferred language (Arabic / English)?,Telephone,119,66.4,7.6
+CQ2,Communication quality,Was the response offered or provided in the customer's preferred language (Arabic / English)?,Social media,120,58.3,14.2
+CQ2,Communication quality,Was the response offered or provided in the customer's preferred language (Arabic / English)?,Registry,119,90.8,3.4
+CQ2,Communication quality,Was the response offered or provided in the customer's preferred language (Arabic / English)?,Ancillary services,120,63.3,15.0
+CQ3,Communication quality,Was the written response well structured and free of errors?,Email,119,71.4,5.9
+CQ3,Communication quality,Was the written response well structured and free of errors?,Social media,120,50.8,21.7
+CQ4,Communication quality,Did the agent listen without interrupting and confirm understanding?,Telephone,118,70.3,9.3
+CQ4,Communication quality,Did the agent listen without interrupting and confirm understanding?,Registry,119,84.0,5.0
+CQ4,Communication quality,Did the agent listen without interrupting and confirm understanding?,Ancillary services,120,56.7,10.8
+PR1,Professionalism,Was the customer greeted courteously and addressed respectfully?,Email,119,79.8,7.6
+PR1,Professionalism,Was the customer greeted courteously and addressed respectfully?,Telephone,119,78.2,4.2
+PR1,Professionalism,Was the customer greeted courteously and addressed respectfully?,Social media,120,57.5,17.5
+PR1,Professionalism,Was the customer greeted courteously and addressed respectfully?,Registry,119,83.2,6.7
+PR1,Professionalism,Was the customer greeted courteously and addressed respectfully?,Ancillary services,120,77.5,5.8
+PR2,Professionalism,Did the staff member identify themselves (name or ID)?,Telephone,119,79.8,9.2
+PR2,Professionalism,Did the staff member identify themselves (name or ID)?,Registry,119,84.0,6.7
+PR2,Professionalism,Did the staff member identify themselves (name or ID)?,Ancillary services,120,72.5,9.2
+PR2,Professionalism,Did the staff member identify themselves (name or ID)?,Email,119,88.2,5.0
+PR3,Professionalism,"Did the staff member keep a neutral, impartial tone (no legal advice given)?",Email,119,84.0,0.0
+PR3,Professionalism,"Did the staff member keep a neutral, impartial tone (no legal advice given)?",Telephone,119,77.3,7.6
+PR3,Professionalism,"Did the staff member keep a neutral, impartial tone (no legal advice given)?",Social media,119,71.4,5.0
+PR3,Professionalism,"Did the staff member keep a neutral, impartial tone (no legal advice given)?",Registry,119,89.9,0.8
+PR3,Professionalism,"Did the staff member keep a neutral, impartial tone (no legal advice given)?",Ancillary services,119,69.7,8.4
+IA1,Information accuracy,Was the information provided correct against the published procedure?,Email,119,65.5,7.6
+IA1,Information accuracy,Was the information provided correct against the published procedure?,Telephone,119,54.6,19.3
+IA1,Information accuracy,Was the information provided correct against the published procedure?,Social media,120,45.0,20.0
+IA1,Information accuracy,Was the information provided correct against the published procedure?,Registry,119,74.8,10.1
+IA1,Information accuracy,Was the information provided correct against the published procedure?,Ancillary services,120,30.0,37.5
+IA2,Information accuracy,"Was the information complete (documents, fees, timelines)?",Email,119,61.3,12.6
+IA2,Information accuracy,"Was the information complete (documents, fees, timelines)?",Telephone,119,59.7,14.3
+IA2,Information accuracy,"Was the information complete (documents, fees, timelines)?",Social media,120,40.8,24.2
+IA2,Information accuracy,"Was the information complete (documents, fees, timelines)?",Registry,119,69.7,6.7
+IA2,Information accuracy,"Was the information complete (documents, fees, timelines)?",Ancillary services,120,28.3,34.2
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",Email,119,64.7,13.4
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",Telephone,119,63.9,8.4
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",Social media,120,40.0,22.5
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",Registry,119,63.9,10.9
+IA3,Information accuracy,"Was the customer directed to the correct official page, form or e-service?",Ancillary services,120,29.2,32.5
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,Email,119,53.8,13.4
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,Telephone,119,33.6,29.4
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,Social media,120,41.7,21.7
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,Registry,119,61.3,13.4
+RE1,Resolution effectiveness,Was the enquiry resolved at first contact?,Ancillary services,120,35.0,22.5
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",Email,118,65.3,11.9
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",Telephone,118,38.1,31.4
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",Social media,120,35.8,28.3
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",Registry,119,63.0,12.6
+RE2,Resolution effectiveness,"If not resolved, was a clear next step or referral given?",Ancillary services,120,45.8,24.2
+RE3,Resolution effectiveness,"Was the transaction completed correctly (documents accepted, receipt issued)?",Registry,119,66.4,11.8
+RE3,Resolution effectiveness,"Was the transaction completed correctly (documents accepted, receipt issued)?",Ancillary services,120,42.5,25.8
+CX1,Customer experience,"Was the environment / channel easy to use (signage, menus, accessibility)?",Email,119,74.8,9.2
+CX1,Customer experience,"Was the environment / channel easy to use (signage, menus, accessibility)?",Telephone,119,60.5,9.2
+CX1,Customer experience,"Was the environment / channel easy to use (signage, menus, accessibility)?",Social media,120,50.8,21.7
+CX1,Customer experience,"Was the environment / channel easy to use (signage, menus, accessibility)?",Registry,119,73.9,4.2
+CX1,Customer experience,"Was the environment / channel easy to use (signage, menus, accessibility)?",Ancillary services,118,61.9,11.0
+CX2,Customer experience,Did the interaction feel efficient overall?,Email,119,71.4,7.6
+CX2,Customer experience,Did the interaction feel efficient overall?,Telephone,119,52.9,19.3
+CX2,Customer experience,Did the interaction feel efficient overall?,Social media,119,56.3,15.1
+CX2,Customer experience,Did the interaction feel efficient overall?,Registry,119,73.1,9.2
+CX2,Customer experience,Did the interaction feel efficient overall?,Ancillary services,120,49.2,17.5

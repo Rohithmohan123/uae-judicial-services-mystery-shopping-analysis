@@ -1,0 +1,12 @@
+rule,rows_affected,action
+Rows in raw file,606,-
+Exact duplicate rows,6,dropped
+Repeated visit_id,0,"dropped, first kept"
+Channel spelling variants standardised,30,recoded
+Unrecognised channel,0,dropped
+Missing shopper_id,3,dropped (assessor must be traceable)
+Invalid criterion scores (not 0/1/2),11,set to missing (cell-level)
+"Response time missing, negative or text",6,set to missing; RT1 left as recorded
+Visit date in dd/mm/yyyy format,9,converted to ISO
+Likelihood-to-recommend missing or outside 0-10,3,"set to missing, excluded from NPS only"
+Rows in clean dataset,597,-

@@ -1,0 +1,607 @@
+﻿visit_id,wave,visit_date,channel,scenario,shopper_id,time_of_day,response_time_min,RT1,RT2,CQ1,CQ2,CQ3,CQ4,PR1,PR2,PR3,IA1,IA2,IA3,RE1,RE2,RE3,CX1,CX2,likelihood_to_recommend,observation
+V0573,Wave 2,2025-09-29,ancillary services,Translation service enquiry,MS04,Morning,8.5,2,2,2,2,,2.0,2,0.0,1,2,0,2,1,2,1.0,0,0,8,Information on required documents was incomplete.
+V0568,Wave 2,2025-09-10,Ancillary services,Translation service enquiry,MS07,Afternoon,23.2,1,2,1,2,,2.0,2,1.0,1,1,0,0,2,2,2.0,2,2,7,Answer did not match the published procedure on the website.
+V0435,Wave 2,2025-08-05,Social media,General service enquiry,MS08,Morning,171.4,1,1,2,2,2.0,,2,,2,2,2,2,2,2,,2,1,7,"Quick, helpful response with a link to the right e-service."
+V0359,Wave 2,2025-09-08,Email,Filing procedure enquiry,MS03,Morning,3045.1,0,1,2,2,2.0,,2,2.0,2,1,2,2,2,2,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0339,Wave 2,2025-09-04,Email,Request for case status guidance,MS06,Morning,1337.0,2,2,2,2,1.0,,2,2.0,2,2,2,0,2,2,,2,2,9,Correct fee and document list provided first time.
+V0447,Wave 2,2025-09-15,Social media,General service enquiry,MS03,Afternoon,117.7,2,1,1,2,0.0,,2,,2,2,1,2,1,2,,1,1,7,Response was only available in one language.
+V0441,Wave 2,2025-08-21,Social media,General service enquiry,MS07,Morning,,2,0,1,1,2.0,,1,,2,2,0,1,1,0,,1,0,6,Enquiry was not resolved and no next step was given.
+V0327,Wave 2,2025-09-24,Email,Document requirements for a claim,MS04,Afternoon,2300.7,0,0,2,2,2.0,,2,2.0,2,2,2,1,2,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0192,Wave 1,2025-02-10,Registry,Payment of court fees,MS01,Morning,7.6,2,2,2,2,,2.0,2,2.0,2,1,2,1,2,2,2.0,2,1,10,Correct fee and document list provided first time.
+V0147,Wave 1,2025-03-07,Social media,Accessibility enquiry,MS05,Morning,133.3,1,1,2,1,2.0,,2,,2,2,0,2,0,1,,2,2,8,Had to wait well beyond the expected time.
+V0308,Wave 2,2025-08-12,Email,Document requirements for a claim,MS08,Morning,1626.6,1,2,2,2,1.0,,2,2.0,2,2,2,2,1,2,,2,0,7,Staff member was courteous and explained the steps clearly.
+V0092,Wave 1,2025-03-06,Telephone,Hearing date enquiry,MS01,Afternoon,0.4,2,2,2,2,,0.0,2,2.0,2,2,1,2,0,0,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0287,Wave 1,2025-03-24,Ancillary services,Visitor and accessibility support,MS03,Afternoon,11.7,2,1,1,0,,2.0,2,2.0,2,0,1,0,0,2,1.0,2,2,7,Agent could not transfer the call to the right department.
+V0371,Wave 2,2025-08-15,Telephone,Court fee enquiry,MS06,Morning,2.0,0,2,2,2,,2.0,2,2.0,0,2,2,2,1,1,,2,2,7,Staff member was courteous and explained the steps clearly.
+V0517,Wave 2,2025-08-14,Registry,Certified copy request,MS02,Afternoon,11.3,2,2,2,2,,2.0,2,2.0,2,2,1,2,2,2,1.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0094,Wave 1,2025-04-02,Telephone,Opening hours and location,MS05,Morning,1.6,0,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,,2,2,10,Correct fee and document list provided first time.
+V0084,Wave 1,2025-03-10,Telephone,How to submit an appeal,MS08,Afternoon,1.4,1,1,1,1,,2.0,2,2.0,2,0,2,2,1,1,,1,1,7,Response was only available in one language.
+V0238,Wave 1,2025-03-18,Registry,Payment of court fees,MS08,Afternoon,5.2,2,2,0,2,,2.0,2,2.0,2,2,1,1,1,2,1.0,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0393,Wave 2,2025-08-18,Telephone,Opening hours and location,MS08,Afternoon,0.2,2,1,2,2,,2.0,2,2.0,2,2,1,1,1,1,,1,2,9,Staff member was courteous and explained the steps clearly.
+V0293,Wave 1,2025-02-14,Ancillary services,Visitor and accessibility support,MS07,Afternoon,5.2,2,0,0,0,,0.0,1,0.0,0,1,0,0,1,2,0.0,0,1,2,Answer did not match the published procedure on the website.
+V0520,Wave 2,2025-09-18,Registry,Submitting documents at the counter,MS04,Morning,8.5,2,2,2,2,,2.0,2,2.0,2,0,2,2,2,2,1.0,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0154,Wave 1,2025-02-03,Social media,Accessibility enquiry,MS02,Afternoon,187.0,0,1,2,2,2.0,,2,,2,2,1,2,2,2,,2,2,8,Staff member was courteous and explained the steps clearly.
+V0399,Wave 2,2025-08-22,Telephone,Court fee enquiry,MS04,Morning,3.4,0,2,2,1,,2.0,2,2.0,2,2,2,2,2,2,,2,0,8,Staff member was courteous and explained the steps clearly.
+V0259,Wave 1,2025-03-25,Ancillary services,Mediation information session,MS01,Morning,12.1,2,2,2,2,,1.0,1,2.0,2,0,0,1,2,2,2.0,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0471,Wave 2,2025-09-18,Social media,Complaint escalation,MS08,Morning,87.3,2,1,1,1,1.0,,2,,2,2,0,1,1,2,,2,2,8,Response was only available in one language.
+V0497,Wave 2,2025-09-08,Registry,Certified copy request,MS02,Afternoon,14.7,2,0,2,2,,2.0,1,2.0,2,2,0,1,1,2,2.0,1,1,7,Answer did not match the published procedure on the website.
+V0116,Wave 1,2025-03-19,Telephone,Court fee enquiry,MS01,Morning,0.3,2,2,2,2,,0.0,2,1.0,2,2,2,1,1,0,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0535,Wave 2,2025-09-01,Registry,Submitting documents at the counter,MS04,Afternoon,6.3,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0129,Wave 1,2025-03-03,Social media,Complaint escalation,MS06,Morning,468.8,0,0,0,0,0.0,,0,,0,0,0,0,0,0,,0,0,0,Enquiry was not resolved and no next step was given.
+V0146,Wave 1,2025-03-10,Social media,Complaint escalation,MS04,Morning,512.5,0,1,2,2,1.0,,0,,2,1,2,2,1,2,,2,2,8,Answer did not match the published procedure on the website.
+V0088,Wave 1,2025-02-10,Telephone,How to submit an appeal,MS04,Morning,0.4,2,2,1,1,,2.0,2,2.0,2,2,2,2,2,0,,0,2,9,Correct fee and document list provided first time.
+V0147,Wave 1,2025-03-07,Social media,Accessibility enquiry,MS05,Morning,133.3,1,1,2,1,2.0,,2,,2,2,0,2,0,1,,2,2,8,Had to wait well beyond the expected time.
+V0533,Wave 2,2025-09-08,Registry,Submitting documents at the counter,MS07,Morning,8.7,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,0,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0310,Wave 2,2025-09-04,E-mail,Document requirements for a claim,MS08,Afternoon,4212.4,0,1,2,2,2.0,,2,2.0,2,1,1,2,2,2,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0550,Wave 2,2025-09-12,Ancillary services,Mediation information session,MS07,Morning,11.6,2,2,1,2,,2.0,2,2.0,2,0,2,0,1,0,1.0,2,2,9,Response was only available in one language.
+V0264,Wave 1,2025-03-28,Ancillary services,Translation service enquiry,MS03,Morning,12.2,2,1,2,2,,2.0,2,2.0,2,0,0,0,2,1,2.0,1,2,8,Agent could not transfer the call to the right department.
+V0468,Wave 2,2025-09-12,Social media,General service enquiry,MS03,Afternoon,382.6,0,1,2,2,2.0,,2,,2,2,1,1,0,2,,1,2,8,Answer did not match the published procedure on the website.
+V0004,Wave 1,2025-02-25,Email,Request for case status guidance,MS08,Afternoon,3031.5,0,1,2,2,1.0,,2,2.0,2,2,1,0,2,0,,1,2,9,Enquiry was not resolved and no next step was given.
+V0152,Wave 1,2025-03-10,Social media,General service enquiry,MS01,Morning,298.8,0,0,1,2,2.0,,2,,2,1,0,1,0,2,,2,2,8,Had to wait well beyond the expected time.
+V0300,Wave 1,2025-03-04,Ancillary services,Translation service enquiry,MS07,Afternoon,36.6,0,0,1,1,,1.0,0,2.0,1,0,0,0,0,0,0.0,1,1,4,Response was only available in one language.
+V0325,Wave 2,2025-08-11,Email,Filing procedure enquiry,MS07,Afternoon,183.9,2,2,2,2,2.0,,2,2.0,2,1,2,1,2,2,,1,1,9,Correct fee and document list provided first time.
+V0398,Wave 2,2025-09-22,Telephone,Court fee enquiry,MS08,Afternoon,0.6,2,2,2,2,,2.0,2,2.0,1,2,2,2,2,2,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0121,Wave 1,2025-03-03,Social media,Accessibility enquiry,MS04,Afternoon,249.0,0,2,1,2,1.0,,2,,2,1,2,2,0,0,,1,2,8,Had to wait well beyond the expected time.
+V0366,Wave 2,2025-08-05,Telephone,Hearing date enquiry,MS07,Morning,0.1,2,0,2,2,,2.0,2,2.0,2,1,2,1,2,1,,2,2,10,Correct fee and document list provided first time.
+V0258,Wave 1,2025-03-21,Ancillary services,Translation service enquiry,MS01,Afternoon,12.1,2,0,0,1,,2.0,2,2.0,2,0,2,1,1,0,2.0,2,0,6,Response was only available in one language.
+V0559,Wave 2,2025-09-18,Ancillary services,Notarisation / attestation,MS01,Afternoon,15.3,2,1,2,2,,2.0,2,1.0,2,0,0,0,1,0,2.0,2,1,7,Agent could not transfer the call to the right department.
+V0123,Wave 1,2025-03-03,Social media,E-services login help,MS02,Morning,290.3,0,0,2,1,2.0,,1,,2,0,2,2,1,0,,1,2,6,Information on required documents was incomplete.
+V0490,Wave 2,2025-08-21,Registry,Submitting documents at the counter,MS07,Morning,28.3,0,0,2,2,,2.0,2,1.0,2,1,2,0,0,2,2.0,1,2,8,Answer did not match the published procedure on the website.
+V0233,Wave 1,2025-03-06,Registry,Submitting documents at the counter,MS02,Morning,11.4,2,2,2,2,,2.0,2,2.0,2,2,1,2,2,2,2.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0113,Wave 1,2025-02-17,Telephone,How to submit an appeal,MS04,Afternoon,1.3,1,2,2,0,,2.0,2,1.0,2,1,0,1,0,Y,,2,1,8,Enquiry was not resolved and no next step was given.
+V0489,Wave 2,2025-09-05,Registry,Payment of court fees,MS06,Morning,15.6,1,2,2,2,,2.0,2,2.0,2,2,1,1,0,2,0.0,2,0,8,Response was only available in one language.
+V0201,Wave 1,2025-02-18,Registry,Case file inspection request,MS03,Afternoon,6.2,2,2,0,2,,2.0,2,2.0,2,2,1,2,2,2,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0257,Wave 1,2025-03-25,Ancillary services,Visitor and accessibility support,MS03,Afternoon,4.6,2,1,2,2,,2.0,2,2.0,2,2,2,1,2,2,2.0,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0360,Wave 2,2025-09-08,Email,Court fee enquiry,MS02,Morning,432.5,2,2,2,2,2.0,,2,2.0,2,2,1,2,2,2,,2,2,9,"Quick, helpful response with a link to the right e-service."
+V0518,Wave 2,2025-08-18,Registry,Certified copy request,MS06,Afternoon,12.8,2,0,2,2,,2.0,1,0.0,2,2,2,2,1,0,1.0,0,2,7,Information on required documents was incomplete.
+V0357,Wave 2,2025-08-04,Email,Court fee enquiry,MS08,Afternoon,2343.4,0,2,2,2,2.0,,2,2.0,2,2,2,2,1,1,,2,2,10,Correct fee and document list provided first time.
+V0135,Wave 1,2025-03-31,Social media,General service enquiry,MS07,Morning,906.4,0,0,0,0,0.0,,0,,2,1,1,0,0,0,,0,-1,1,Enquiry was not resolved and no next step was given.
+V0083,Wave 1,2025-03-24,Telephone,Hearing date enquiry,MS05,Morning,0.7,2,0,1,2,,2.0,2,2.0,2,2,1,1,1,1,,2,2,8,Correct fee and document list provided first time.
+V0433,Wave 2,2025-08-27,Social media,E-services login help,MS08,Morning,783.7,0,1,1,2,2.0,,2,,2,2,1,2,2,1,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0140,Wave 1,2025-03-13,Social media,General service enquiry,MS04,Afternoon,308.8,0,0,2,2,2.0,,1,,1,0,1,2,0,2,,1,2,6,Had to wait well beyond the expected time.
+V0478,Wave 2,2025-09-29,Social media,Accessibility enquiry,MS08,Morning,196.5,0,1,1,0,2.0,,2,,2,1,1,1,2,1,,2,2,9,Answer did not match the published procedure on the website.
+V0144,Wave 1,2025-03-31,Social media,General service enquiry,MS04,Afternoon,287.2,0,0,1,1,0.0,,0,,1,2,2,1,2,0,,0,1,7,Response was only available in one language.
+V0377,Wave 2,2025-08-11,Telephone,Hearing date enquiry,MS08,Morning,0.3,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,0,,2,0,10,Counter staff checked the documents carefully and issued a receipt.
+V0501,Wave 2,2025-09-15,Registry,Certified copy request,MS06,Morning,16.3,1,1,2,2,,2.0,2,1.0,2,2,2,2,2,2,2.0,2,2,9,Correct fee and document list provided first time.
+V0076,Wave 1,2025-03-17,Telephone,Court fee enquiry,MS05,Afternoon,0.4,2,2,2,2,,1.0,2,2.0,1,1,2,2,2,0,,1,0,9,Agent could not transfer the call to the right department.
+V0047,Wave 1,2025-03-19,E-mail,Filing procedure enquiry,MS03,Afternoon,393.9,2,1,2,2,2.0,,2,2.0,2,2,2,2,0,2,,2,2,10,Correct fee and document list provided first time.
+V0114,Wave 1,2025-02-20,Telephone,Opening hours and location,MS06,Morning,1.6,0,2,2,2,,2.0,2,2.0,2,2,2,1,0,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0095,Wave 1,2025-02-03,Telephone,Opening hours and location,MS05,Morning,1.3,1,0,1,2,,2.0,1,0.0,2,1,1,2,0,1,,2,2,7,Answer did not match the published procedure on the website.
+V0265,Wave 1,2025-03-07,Ancillary services,Mediation information session,MS03,Morning,8.9,2,2,2,2,,2.0,2,1.0,2,1,1,1,2,2,2.0,1,1,9,Staff member was courteous and explained the steps clearly.
+V0223,Wave 1,2025-03-12,Registry,Payment of court fees,MS05,Afternoon,54.2,0,1,1,0,,0.0,0,2.0,2,2,2,2,2,1,1.0,2,2,4,Response was only available in one language.
+V0558,Wave 2,2025-09-30,Ancillary services,Visitor and accessibility support,MS08,Morning,15.5,2,0,2,2,,1.0,2,2.0,0,0,2,2,1,1,1.0,1,0,5,Enquiry was not resolved and no next step was given.
+V0183,Wave 1,2025-02-17,Registry,Certified copy request,MS08,Morning,9.9,2,2,2,2,,2.0,2,2.0,2,1,2,2,2,2,2.0,1,2,6,"Quick, helpful response with a link to the right e-service."
+V0524,Wave 2,2025-09-30,Registry,Case file inspection request,MS08,Afternoon,9.1,2,2,1,2,,2.0,2,2.0,2,2,1,2,2,1,1.0,1,1,9,Correct fee and document list provided first time.
+V0557,Wave 2,2025-09-12,Ancillary services,Visitor and accessibility support,MS06,Afternoon,8.0,2,2,2,2,,2.0,2,2.0,2,1,2,2,1,1,2.0,2,0,10,Staff member was courteous and explained the steps clearly.
+V0099,Wave 1,2025-04-01,Telephone,How to submit an appeal,MS01,Afternoon,0.7,2,2,1,2,,0.0,1,0.0,1,0,2,1,1,2,,1,1,5,Had to wait well beyond the expected time.
+V0362,Wave 2,2025-09-29,Telephone,Hearing date enquiry,MS03,Afternoon,1.6,0,1,0,1,,2.0,2,2.0,2,1,2,2,2,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0160,Wave 1,2025-03-20,Social media,Accessibility enquiry,MS07,Morning,344.5,0,1,0,0,1.0,,2,,2,1,0,1,0,0,,1,2,5,Agent could not transfer the call to the right department.
+V0155,Wave 1,2025-02-26,Social media,General service enquiry,MS03,Afternoon,337.3,0,1,2,2,1.0,,2,,2,2,1,2,2,0,,2,2,8,Agent could not transfer the call to the right department.
+V0585,Wave 2,2025-08-04,Ancillary services,Visitor and accessibility support,MS08,Afternoon,8.1,2,1,2,0,,1.0,2,2.0,2,1,0,2,1,1,2.0,0,0,8,Agent could not transfer the call to the right department.
+V0432,Wave 2,2025-08-12,Twitter/X,Accessibility enquiry,MS08,Morning,109.5,2,1,2,2,0.0,,2,,2,0,2,1,0,1,,1,1,5,Answer did not match the published procedure on the website.
+V0482,Wave 2,2025-09-03,Registry,Case file inspection request,MS05,Afternoon,6.4,2,2,2,1,,2.0,2,2.0,2,2,2,2,2,1,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0531,Wave 2,2025-08-11,Registry,Submitting documents at the counter,MS04,Morning,6.3,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,1,2.0,2,2,10,Correct fee and document list provided first time.
+V0033,Wave 1,2025-02-25,Email,Court fee enquiry,MS04,Morning,498.3,2,2,1,2,1.0,,2,2.0,1,2,2,2,1,1,,2,0,9,Counter staff checked the documents carefully and issued a receipt.
+V0049,Wave 1,2025-03-31,Email,Document requirements for a claim,MS03,Morning,190.7,2,2,2,2,2.0,,2,2.0,2,0,0,2,0,1,,2,2,9,Correct fee and document list provided first time.
+V0002,Wave 1,2025-02-14,Email,Court fee enquiry,MS02,Morning,1359.2,2,1,2,2,0.0,,0,1.0,1,2,1,0,0,1,,0,0,4,Information on required documents was incomplete.
+V0216,Wave 1,2025-03-12,Registry,Certified copy request,MS08,Morning,4.2,2,2,1,2,,2.0,2,2.0,2,2,0,1,0,2,2.0,0,2,8,Had to wait well beyond the expected time.
+V0075,Wave 1,2025-03-27,Telephone,Opening hours and location,MS01,Afternoon,0.6,2,2,2,2,,2.0,1,2.0,2,0,0,2,0,0,,2,1,8,Answer did not match the published procedure on the website.
+V0262,Wave 1,2025-03-31,Ancillary services,Translation service enquiry,MS08,Morning,13.9,2,2,2,2,,0.0,2,2.0,2,1,0,1,2,2,1.0,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0326,Wave 2,2025-09-15,Email,Filing procedure enquiry,MS02,Afternoon,792.6,2,1,2,1,2.0,,2,2.0,2,1,0,1,2,2,,2,1,10,Correct fee and document list provided first time.
+V0459,Wave 2,2025-08-15,Social media,E-services login help,MS01,Morning,798.2,0,0,2,0,2.0,,0,,1,2,1,2,2,2,,1,2,8,Information on required documents was incomplete.
+V0385,Wave 2,2025-09-16,Telephone,How to submit an appeal,MS06,Morning,2.5,0,1,2,2,,2.0,2,2.0,0,1,1,2,2,1,,1,2,6,Response was only available in one language.
+V0555,Wave 2,2025-09-18,Ancillary services,Notarisation / attestation,MS01,Morning,18.1,2,1,2,0,,1.0,2,2.0,2,0,0,1,1,1,2.0,2,1,7,Answer did not match the published procedure on the website.
+V0405,Wave 2,2025-08-18,Telephone,How to submit an appeal,MS07,Morning,4.1,0,1,2,1,,1.0,2,2.0,2,2,1,1,1,2,,2,0,7,Agent could not transfer the call to the right department.
+V0055,Wave 1,2025-03-10,Email,Request for case status guidance,MS01,Afternoon,1415.4,2,2,2,2,2.0,,2,2.0,2,2,1,1,1,1,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0437,Wave 2,2025-09-29,Social media,General service enquiry,MS07,Morning,59.6,2,1,1,1,1.0,,0,,-1,2,1,2,0,1,,2,0,5,Enquiry was not resolved and no next step was given.
+V0253,Wave 1,2025-02-10,Ancillary services,Translation service enquiry,MS06,Afternoon,14.9,2,0,1,0,,0.0,1,1.0,1,1,1,1,1,1,0.0,1,2,6,Answer did not match the published procedure on the website.
+V0102,Wave 1,2025-02-12,Telephone,Opening hours and location,MS04,Morning,0.5,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,2,,1,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0507,Wave 2,2025-09-10,Registry,Case file inspection request,MS02,Morning,4.7,2,2,2,2,,2.0,2,2.0,2,2,2,1,2,2,2.0,1,2,8,"Quick, helpful response with a link to the right e-service."
+V0453,Wave 2,2025-08-20,Social media,E-services login help,MS04,Afternoon,162.6,1,2,2,2,2.0,,2,,2,2,2,1,2,1,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0241,Wave 1,2025-02-03,Ancillary services,Mediation information session,MS04,Morning,8.1,2,1,2,2,,1.0,2,2.0,2,0,2,2,2,0,2.0,2,1,10,Counter staff checked the documents carefully and issued a receipt.
+V0515,Wave 2,2025-09-08,Registry,Certified copy request,MS01,Afternoon,13.6,2,2,2,2,,2.0,2,2.0,1,2,2,1,1,2,1.0,1,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0309,Wave 2,2025-08-18,Email,Request for case status guidance,MS03,Morning,1304.6,2,2,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,Correct fee and document list provided first time.
+V0031,Wave 1,2025-02-13,Email,Court fee enquiry,MS03,Morning,1816.1,1,2,2,2,2.0,,2,0.0,1,2,2,2,2,2,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0423,Wave 2,2025-09-22,Social media,E-services login help,MS04,Morning,2639.3,0,1,2,1,0.0,,2,,1,2,1,2,1,0,,1,1,5,Answer did not match the published procedure on the website.
+V0379,Wave 2,2025-08-26,telephone,Hearing date enquiry,MS02,Morning,2.1,0,0,1,2,,1.0,2,2.0,2,2,1,0,1,1,,2,0,6,Information on required documents was incomplete.
+V0020,Wave 1,2025-03-27,Email,Request for case status guidance,MS02,Morning,1903.2,1,2,2,2,2.0,,1,2.0,2,0,1,1,2,2,,2,1,8,Staff member was courteous and explained the steps clearly.
+V0051,Wave 1,2025-03-03,Email,Filing procedure enquiry,MS01,Morning,1851.0,1,2,1,2,0.0,,2,2.0,2,2,2,1,2,1,,2,2,7,Staff member was courteous and explained the steps clearly.
+V0367,Wave 2,2025-08-18,Telephone,How to submit an appeal,MS06,Morning,0.4,2,1,0,2,,1.0,2,1.0,2,1,2,1,1,2,,2,2,10,Had to wait well beyond the expected time.
+V0279,Wave 1,2025-02-26,Ancillary services,Notarisation / attestation,MS06,Morning,59.5,0,1,2,1,,2.0,2,2.0,1,0,0,1,1,1,0.0,2,1,4,Enquiry was not resolved and no next step was given.
+V0473,Wave 2,2025-08-06,Social media,General service enquiry,MS05,Afternoon,52.3,2,1,2,0,0.0,,2,,1,0,0,0,0,0,,1,1,6,Enquiry was not resolved and no next step was given.
+V0599,Wave 2,2025-08-25,Ancillary services,Translation service enquiry,MS07,Morning,20.3,1,0,1,2,,1.0,2,0.0,1,2,2,2,2,0,2.0,2,1,8,Agent could not transfer the call to the right department.
+V0156,Wave 1,2025-02-24,Social media,Complaint escalation,MS05,Morning,277.0,0,1,0,2,1.0,,2,,2,2,2,0,1,0,,2,2,7,Response was only available in one language.
+V0427,Wave 2,2025-09-08,Social media,Accessibility enquiry,MS01,Morning,707.8,0,1,2,2,2.0,,2,,2,2,2,1,1,2,,0,1,9,Information on required documents was incomplete.
+V0058,Wave 1,2025-03-04,email,Document requirements for a claim,MS05,Afternoon,2086.3,1,2,2,2,2.0,,2,2.0,2,2,2,2,1,1,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0461,Wave 2,2025-08-26,Social Media,E-services login help,MS06,Morning,70.4,2,1,1,2,0.0,,2,,2,1,2,2,2,1,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0314,Wave 2,2025-08-26,Email,Court fee enquiry,MS02,Afternoon,1867.3,1,0,1,1,1.0,,2,2.0,2,2,1,2,2,2,,2,2,8,Correct fee and document list provided first time.
+V0283,Wave 1,2025-02-10,Ancillary services,Mediation information session,MS04,Afternoon,22.5,1,0,2,2,,2.0,2,0.0,0,1,1,2,1,0,1.0,2,1,8,Response was only available in one language.
+V0483,Wave 2,2025-08-18,Registry counter,Case file inspection request,MS01,Morning,13.5,2,0,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,2,9,Correct fee and document list provided first time.
+V0032,Wave 1,2025-02-28,Email,Request for case status guidance,MS03,Afternoon,1367.3,2,2,2,2,2.0,,2,2.0,2,2,0,2,1,2,,1,2,10,Staff member was courteous and explained the steps clearly.
+V0098,Wave 1,2025-02-19,telephone,How to submit an appeal,MS07,Afternoon,0.3,2,2,2,0,,1.0,2,2.0,2,2,2,1,2,1,,2,0,9,Staff member was courteous and explained the steps clearly.
+V0539,Wave 2,2025-09-24,Registry,Submitting documents at the counter,MS02,Afternoon,4.1,2,2,2,2,,2.0,2,2.0,2,0,2,2,1,2,2.0,2,0,7,Staff member was courteous and explained the steps clearly.
+V0005,Wave 1,2025-03-10,Email,Request for case status guidance,MS02,Morning,191.6,2,0,2,2,2.0,,2,2.0,2,2,2,0,2,1,,2,2,6,Staff member was courteous and explained the steps clearly.
+V0271,Wave 1,2025-03-21,Ancillary services,Visitor and accessibility support,MS05,Afternoon,37.9,0,0,1,0,,1.0,2,2.0,2,2,0,1,0,0,1.0,-1,0,7,Enquiry was not resolved and no next step was given.
+V0205,Wave 1,2025-02-10,Registry,Payment of court fees,MS05,Morning,6.8,2,1,2,2,,2.0,2,2.0,1,2,1,1,2,2,2.0,2,1,10,Correct fee and document list provided first time.
+V0391,Wave 2,2025-08-11,Telephone,Hearing date enquiry,MS03,Morning,0.6,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,,2,1,8,Counter staff checked the documents carefully and issued a receipt.
+V0044,Wave 1,2025-02-14,Email,Document requirements for a claim,MS02,Morning,1440.9,1,1,2,2,2.0,,2,2.0,2,0,2,2,2,1,,2,1,9,Staff member was courteous and explained the steps clearly.
+V0113,Wave 1,2025-02-17,Telephone,How to submit an appeal,MS04,Afternoon,1.3,1,2,2,0,,2.0,2,1.0,2,1,0,1,0,Y,,2,1,8,Enquiry was not resolved and no next step was given.
+V0188,Wave 1,2025-02-28,Registry,Payment of court fees,MS03,Afternoon,19.0,1,2,2,2,,2.0,2,2.0,1,2,1,2,2,2,0.0,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0052,Wave 1,2025-03-03,Email,Court fee enquiry,MS07,Afternoon,2659.3,0,1,1,1,2.0,,1,2.0,2,1,2,0,1,0,,2,1,6,Response was only available in one language.
+V0487,Wave 2,2025-08-11,Registry counter,Case file inspection request,MS07,Morning,2.9,2,0,2,2,,2.0,2,1.0,0,2,2,2,1,1,2.0,2,1,9,Information on required documents was incomplete.
+V0540,Wave 2,2025-09-02,Registry,Submitting documents at the counter,MS07,Morning,34.3,0,0,2,2,,2.0,2,2.0,2,2,2,2,1,1,0.0,0,1,8,Agent could not transfer the call to the right department.
+V0508,Wave 2,2025-09-30,Registry,Submitting documents at the counter,MS03,Morning,13.1,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,0,10,Staff member was courteous and explained the steps clearly.
+V0448,Wave 2,2025-08-27,Social media,E-services login help,MS01,Morning,154.5,1,2,2,2,2.0,,0,,2,1,1,0,0,0,,0,1,8,Answer did not match the published procedure on the website.
+V0338,Wave 2,2025-08-15,Email,Request for case status guidance,MS01,Morning,2746.2,0,1,0,2,1.0,,1,2.0,1,2,2,1,2,1,,0,0,7,Response was only available in one language.
+V0215,Wave 1,2025-02-26,registry,Case file inspection request,MS08,Afternoon,8.2,2,2,1,2,,1.0,2,2.0,2,0,2,2,2,1,2.0,2,2,9,"Quick, helpful response with a link to the right e-service."
+V0346,Wave 2,2025-09-17,Email,Filing procedure enquiry,MS01,Afternoon,295.0,2,2,1,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0403,Wave 2,2025-09-12,Telephone,Hearing date enquiry,MS02,Morning,1.2,1,2,1,1,,2.0,1,2.0,1,1,1,2,0,2,,2,2,8,Enquiry was not resolved and no next step was given.
+V0006,Wave 1,2025-02-10,Email,Court fee enquiry,MS01,Afternoon,385.4,2,2,2,2,2.0,,2,2.0,2,1,1,2,1,2,,2,1,9,"Quick, helpful response with a link to the right e-service."
+V0342,Wave 2,2025-09-01,Email,Request for case status guidance,MS07,Afternoon,1444.2,1,0,1,2,2.0,,2,0.0,2,1,0,2,2,2,,2,2,7,Information on required documents was incomplete.
+V0003,Wave 1,2025-03-03,Email,Filing procedure enquiry,MS04,Afternoon,123.9,2,2,2,0,2.0,,0,2.0,1,2,2,1,1,0,,0,1,7,Enquiry was not resolved and no next step was given.
+V0469,Wave 2,2025-08-26,Social media,Accessibility enquiry,MS06,Morning,376.6,0,0,2,2,0.0,,2,,2,0,2,1,0,1,,2,0,6,Had to wait well beyond the expected time.
+V0024,Wave 1,2025-02-05,Email,Document requirements for a claim,MS02,Morning,1256.4,2,2,2,1,2.0,,2,2.0,2,1,1,1,1,1,,2,0,8,Had to wait well beyond the expected time.
+V0426,Wave 2,2025-09-10,Social media,Accessibility enquiry,MS02,Afternoon,84.8,2,1,2,2,2.0,,2,,2,1,1,1,1,1,,2,2,9,Correct fee and document list provided first time.
+V0062,Wave 1,2025-03-26,Telephone,Court fee enquiry,MS08,Morning,1.1,1,2,0,2,,2.0,2,0.0,2,1,1,2,0,0,,0,1,8,Enquiry was not resolved and no next step was given.
+V0232,Wave 1,2025-02-18,Registry,Case file inspection request,MS02,Afternoon,8.0,2,2,1,2,,2.0,2,2.0,2,2,2,2,2,2,0.0,2,2,10,Correct fee and document list provided first time.
+V0523,Wave 2,2025-08-18,Registry,Certified copy request,MS07,Morning,8.5,2,0,2,2,,1.0,0,1.0,2,2,2,2,0,0,2.0,1,0,7,Enquiry was not resolved and no next step was given.
+V0220,Wave 1,2025-02-10,Registry,Payment of court fees,MS01,Morning,4.4,2,2,2,1,,2.0,0,1.0,2,0,2,0,2,1,1.0,2,2,7,Response was only available in one language.
+V0082,Wave 1,2025-03-07,Telephone,How to submit an appeal,MS07,Morning,0.7,2,2,2,2,,2.0,2,2.0,2,2,2,0,2,2,,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0026,Wave 1,2025-03-20,Email,Filing procedure enquiry,MS05,Morning,1271.7,2,2,2,2,1.0,,2,2.0,2,2,2,2,2,2,,2,2,10,Correct fee and document list provided first time.
+V0097,Wave 1,2025-02-03,Telephone,How to submit an appeal,MS05,Afternoon,1.0,2,1,1,1,,2.0,2,2.0,0,2,1,2,2,0,,2,2,9,Agent could not transfer the call to the right department.
+V0551,Wave 2,2025-08-25,Ancillary services,Visitor and accessibility support,MS04,Morning,19.9,2,2,2,2,,2.0,2,2.0,2,2,1,2,0,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0035,Wave 1,2025-03-18,Email,Court fee enquiry,MS04,Morning,1405.0,2,2,0,2,1.0,,2,2.0,2,2,2,2,1,2,,2,1,10,"Quick, helpful response with a link to the right e-service."
+V0012,Wave 1,2025-03-10,Email,Document requirements for a claim,MS03,Afternoon,976.2,2,2,2,2,2.0,,2,2.0,2,2,0,2,2,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0054,Wave 1,2025-03-27,Email,Document requirements for a claim,MS02,Morning,247.0,2,2,1,2,0.0,,2,2.0,1,1,2,2,1,2,,2,2,8,Correct fee and document list provided first time.
+V0373,Wave 2,2025-09-17,Phone,Court fee enquiry,MS08,Afternoon,0.5,2,0,2,2,,Y,2,0.0,1,2,2,2,0,2,,1,2,8,Enquiry was not resolved and no next step was given.
+V0536,Wave 2,2025-09-22,Registry,Certified copy request,MS05,Morning,10.3,2,0,1,2,,1.0,2,2.0,1,1,2,2,1,2,1.0,1,2,7,Information on required documents was incomplete.
+V0001,Wave 1,2025-04-02,Email,Document requirements for a claim,MS04,Afternoon,401.8,2,2,2,0,1.0,,2,2.0,2,2,2,0,1,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0301,Wave 2,2025-09-30,Email,Request for case status guidance,MS02,Afternoon,354.8,2,0,2,2,2.0,,2,2.0,2,2,2,1,0,2,,1,2,6,Staff member was courteous and explained the steps clearly.
+V0451,Wave 2,2025-08-14,Twitter/X,Complaint escalation,MS05,Morning,148.4,1,0,1,1,2.0,,2,,1,1,0,0,2,1,,2,2,5,Information on required documents was incomplete.
+V0375,Wave 2,2025-08-25,Telephone,Hearing date enquiry,MS03,Afternoon,3.0,0,2,2,2,,2.0,2,2.0,1,2,2,2,2,2,,2,2,9,"Quick, helpful response with a link to the right e-service."
+V0186,Wave 1,2025-04-02,Registry,Submitting documents at the counter,MS02,Morning,5.8,2,2,2,2,,2.0,2,2.0,2,1,2,2,2,2,2.0,2,2,8,Correct fee and document list provided first time.
+V0289,Wave 1,2025-03-31,Ancillary services,Visitor and accessibility support,MS03,Afternoon,2.6,2,1,2,2,,2.0,2,2.0,2,2,2,1,2,2,1.0,2,2,10,Correct fee and document list provided first time.
+V0039,Wave 1,2025-03-13,Email,Request for case status guidance,MS08,Afternoon,581.3,2,0,2,2,1.0,,0,1.0,1,1,0,0,1,1,,1,2,5,Agent could not transfer the call to the right department.
+V0278,Wave 1,2025-03-20,Ancillary services,Notarisation / attestation,MS02,Afternoon,7.3,2,2,2,2,,2.0,1,2.0,2,2,2,0,2,2,0.0,1,2,6,"Quick, helpful response with a link to the right e-service."
+V0291,Wave 1,2025-04-02,Ancillary services,Mediation information session,MS04,Morning,47.4,0,1,2,1,,2.0,1,2.0,2,1,1,1,0,0,0.0,2,1,4,Information on required documents was incomplete.
+V0365,Wave 2,2025-08-18,Telephone,How to submit an appeal,MS01,Morning,0.5,2,1,2,1,,2.0,2,2.0,2,2,2,1,2,1,,1,2,9,Staff member was courteous and explained the steps clearly.
+V0064,Wave 1,2025-02-27,Telephone,Hearing date enquiry,MS02,Afternoon,0.5,2,1,1,2,,2.0,2,2.0,2,0,2,2,2,2,,2,1,10,"Quick, helpful response with a link to the right e-service."
+V0193,Wave 1,2025-03-21,Registry,Certified copy request,MS04,Afternoon,4.5,2,2,1,1,,2.0,1,2.0,2,2,1,1,1,2,2.0,1,1,9,Enquiry was not resolved and no next step was given.
+V0315,Wave 2,2025-08-22,Email,Filing procedure enquiry,MS05,Morning,1614.1,1,2,2,2,1.0,,2,2.0,2,2,2,2,1,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0491,Wave 2,2025-08-11,Registry,Submitting documents at the counter,MS03,Morning,4.3,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0394,Wave 2,2025-09-16,Telephone,Court fee enquiry,MS07,Afternoon,0.3,2,1,2,1,,2.0,2,1.0,1,2,1,2,2,1,,2,2,7,Staff member was courteous and explained the steps clearly.
+V0218,Wave 1,2025-02-11,Registry,Case file inspection request,MS04,Afternoon,13.1,2,2,2,2,,2.0,2,2.0,2,0,2,2,2,1,0.0,2,2,8,Staff member was courteous and explained the steps clearly.
+V0364,Wave 2,2025-08-04,Telephone,Court fee enquiry,MS07,Afternoon,0.9,2,1,1,0,,2.0,1,2.0,1,0,0,1,1,0,,2,1,8,Information on required documents was incomplete.
+V0087,Wave 1,2025-02-03,Telephone,Court fee enquiry,MS02,Morning,0.9,2,2,2,2,,1.0,2,2.0,1,2,2,2,1,1,,1,1,10,"Quick, helpful response with a link to the right e-service."
+V0541,Wave 2,2025-08-29,Ancillary services,Mediation information session,MS06,Morning,5.9,2,2,2,2,,2.0,2,2.0,1,2,1,0,0,2,2.0,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0118,Wave 1,2025-02-17,Telephone,Hearing date enquiry,MS02,Morning,26.5,0,1,2,1,,2.0,2,2.0,2,1,2,2,0,0,,0,2,6,Enquiry was not resolved and no next step was given.
+V0194,Wave 1,2025-02-25,Registry,Payment of court fees,MS03,Afternoon,11.0,2,2,2,2,,2.0,2,2.0,2,2,2,1,1,2,2.0,2,1,10,"Quick, helpful response with a link to the right e-service."
+V0348,Wave 2,2025-08-25,Email,Request for case status guidance,MS01,Morning,693.5,2,1,2,2,2.0,,2,2.0,2,1,2,2,2,2,,1,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0066,Wave 1,2025-03-13,Telephone,How to submit an appeal,MS02,Morning,0.9,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0274,Wave 1,2025-03-31,Ancillary services,Visitor and accessibility support,MS08,Morning,41.0,0,0,1,2,,1.0,2,2.0,2,2,2,0,2,2,1.0,1,1,8,Agent could not transfer the call to the right department.
+V0376,Wave 2,2025-08-18,Telephone,Court fee enquiry,MS03,Afternoon,0.5,2,0,2,2,,2.0,2,2.0,2,2,2,2,0,2,,0,2,10,Staff member was courteous and explained the steps clearly.
+V0023,Wave 1,01/04/2025,Email,Court fee enquiry,MS02,Morning,688.1,2,2,2,2,2.0,,1,2.0,1,2,2,0,1,0,,1,2,8,Response was only available in one language.
+V0374,Wave 2,2025-09-29,Telephone,Hearing date enquiry,MS08,Afternoon,1.5,1,0,1,2,,1.0,2,2.0,2,0,1,1,1,0,,2,1,9,Response was only available in one language.
+V0404,Wave 2,2025-08-18,Telephone,How to submit an appeal,MS07,Morning,0.1,2,2,1,1,,1.0,1,2.0,0,1,0,1,2,2,,2,2,7,Answer did not match the published procedure on the website.
+V0492,Wave 2,2025-08-18,Registry,Submitting documents at the counter,MS08,Afternoon,3.3,2,2,2,2,,2.0,2,2.0,2,2,1,0,2,1,1.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0292,Wave 1,2025-02-26,Ancillary services,Translation service enquiry,MS03,Afternoon,23.2,1,0,2,1,,2.0,2,0.0,n/a,0,2,1,2,2,0.0,2,2,8,Response was only available in one language.
+V0400,Wave 2,2025-09-29,Telephone,Court fee enquiry,MS04,Morning,0.9,2,2,2,2,,2.0,1,2.0,1,1,2,2,1,2,,1,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0034,Wave 1,2025-02-20,Email,Filing procedure enquiry,MS03,Morning,296.7,2,1,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0390,Wave 2,2025-08-06,Telephone,Hearing date enquiry,MS05,Morning,1.1,1,2,2,2,,0.0,2,2.0,2,2,2,2,1,2,,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0130,Wave 1,2025-03-14,Social media,Complaint escalation,MS04,Morning,124.4,1,2,2,1,2.0,,2,,2,1,1,1,2,2,,1,1,9,Response was only available in one language.
+V0545,Wave 2,2025-08-22,Ancillary services,Notarisation / attestation,MS04,Afternoon,43.0,0,2,2,2,,2.0,1,1.0,2,0,0,0,1,1,0.0,1,0,3,Information on required documents was incomplete.
+V0136,Wave 1,2025-03-05,Social media,Complaint escalation,MS07,Afternoon,146.9,1,1,2,0,1.0,,1,,1,1,1,1,0,0,,2,2,6,Enquiry was not resolved and no next step was given.
+V0337,Wave 2,2025-08-20,Email,Document requirements for a claim,MS02,Morning,982.6,2,0,2,2,2.0,,2,2.0,2,2,1,2,1,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0335,Wave 2,2025-09-09,Email,Document requirements for a claim,MS05,Morning,607.2,2,0,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,Correct fee and document list provided first time.
+V0008,Wave 1,2025-02-26,Email,Court fee enquiry,,Afternoon,582.9,2,2,2,1,1.0,,2,2.0,2,2,2,2,2,1,,2,2,8,Correct fee and document list provided first time.
+V0455,Wave 2,2025-09-23,Social media,General service enquiry,MS06,Morning,174.0,1,2,1,2,2.0,,1,,2,0,0,0,1,2,,1,2,8,Information on required documents was incomplete.
+V0119,Wave 1,2025-02-27,Telephone,Opening hours and location,MS08,Afternoon,2.2,0,0,2,0,,2.0,2,2.0,2,2,0,1,0,1,,1,1,6,Agent could not transfer the call to the right department.
+V0387,Wave 2,2025-08-25,Telephone,Court fee enquiry,MS06,Morning,0.2,2,2,2,1,,2.0,2,2.0,2,2,2,2,1,2,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0148,Wave 1,2025-02-21,Social media,Complaint escalation,MS07,Afternoon,68.0,2,1,2,2,0.0,,2,,2,1,1,1,2,1,,1,0,8,Information on required documents was incomplete.
+V0157,Wave 1,2025-03-20,Social media,Complaint escalation,MS08,Morning,156.3,1,0,0,2,2.0,,2,,2,0,2,2,2,0,,2,2,10,Had to wait well beyond the expected time.
+V0494,Wave 2,2025-08-05,Registry,Submitting documents at the counter,MS02,Morning,13.2,2,2,2,1,,2.0,2,1.0,2,2,2,1,1,2,2.0,2,2,8,Correct fee and document list provided first time.
+V0562,Wave 2,2025-09-19,Ancillary services,Visitor and accessibility support,MS08,Afternoon,19.7,2,0,2,0,,1.0,2,2.0,2,0,2,2,2,1,1.0,2,2,6,Enquiry was not resolved and no next step was given.
+V0361,Wave 2,2025-08-28,Phone,Court fee enquiry,MS07,Morning,0.5,2,2,2,2,,2.0,2,2.0,2,1,2,2,1,0,,0,0,,Enquiry was not resolved and no next step was given.
+V0463,Wave 2,2025-09-19,Social media,Accessibility enquiry,MS01,Morning,195.8,0,1,2,2,2.0,,2,,2,1,2,2,1,2,,0,1,9,Enquiry was not resolved and no next step was given.
+V0255,Wave 1,2025-02-21,Ancillary services,Mediation information session,MS07,Morning,22.0,1,1,0,2,,2.0,2,2.0,0,0,0,0,1,2,0.0,1,1,4,Enquiry was not resolved and no next step was given.
+V0070,Wave 1,2025-03-27,Telephone,Hearing date enquiry,MS05,Afternoon,0.9,2,1,2,1,,1.0,1,2.0,2,2,0,1,1,1,,0,0,7,Answer did not match the published procedure on the website.
+V0150,Wave 1,2025-03-25,Social media,E-services login help,MS03,Afternoon,214.5,0,0,2,1,0.0,,2,,1,1,2,2,1,1,,2,2,8,Answer did not match the published procedure on the website.
+V0138,Wave 1,2025-02-07,Social media,Complaint escalation,MS05,Morning,727.1,0,1,1,1,1.0,,1,,2,2,0,2,0,1,,2,2,4,Response was only available in one language.
+V0110,Wave 1,2025-03-12,Telephone,Opening hours and location,MS03,Afternoon,0.8,2,2,2,2,,1.0,2,0.0,2,2,2,2,1,1,,2,1,9,"Quick, helpful response with a link to the right e-service."
+V0442,Wave 2,2025-08-29,Social media,Complaint escalation,MS03,Morning,586.9,0,1,2,2,0.0,,2,,1,1,1,1,1,2,,2,0,8,Had to wait well beyond the expected time.
+V0473,Wave 2,2025-08-06,Social media,General service enquiry,MS05,Afternoon,52.3,2,1,2,0,0.0,,2,,1,0,0,0,0,0,,1,1,6,Enquiry was not resolved and no next step was given.
+V0411,Wave 2,2025-08-18,Phone,How to submit an appeal,MS08,Morning,0.5,2,1,0,2,,2.0,0,2.0,1,0,1,2,2,1,,2,2,7,Had to wait well beyond the expected time.
+V0074,Wave 1,2025-02-21,Telephone,Court fee enquiry,MS04,Afternoon,2.6,0,2,2,2,,2.0,1,2.0,2,2,2,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0219,Wave 1,2025-02-03,Registry,Certified copy request,MS02,Afternoon,17.9,1,2,1,2,,2.0,1,2.0,2,2,2,1,0,1,1.0,2,2,10,Agent could not transfer the call to the right department.
+V0349,Wave 2,2025-09-24,Email,Document requirements for a claim,MS08,Afternoon,640.2,2,2,2,2,1.0,,2,2.0,2,2,2,2,2,2,,0,2,10,Correct fee and document list provided first time.
+V0352,Wave 2,2025-09-01,Email,Filing procedure enquiry,MS04,Afternoon,2247.1,0,1,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0103,Wave 1,2025-03-17,Phone,Hearing date enquiry,MS04,Morning,0.9,2,2,2,2,,2.0,2,0.0,2,0,1,2,2,1,,1,1,7,Agent could not transfer the call to the right department.
+V0537,Wave 2,2025-09-16,Registry,Payment of court fees,MS06,Morning,6.3,2,2,2,2,,1.0,2,2.0,1,2,2,2,2,2,2.0,2,2,9,Correct fee and document list provided first time.
+V0592,Wave 2,2025-08-25,Ancillary services,Translation service enquiry,MS08,Afternoon,11.0,2,1,2,1,,2.0,2,2.0,2,2,1,1,2,2,0.0,2,0,8,Had to wait well beyond the expected time.
+V0552,Wave 2,2025-08-11,Ancillary services,Notarisation / attestation,MS05,Morning,37.1,0,1,1,2,,2.0,2,2.0,0,0,1,1,1,1,0.0,2,0,5,Had to wait well beyond the expected time.
+V0085,Wave 1,2025-02-24,Telephone,Opening hours and location,MS08,Morning,0.7,2,1,2,2,,0.0,2,2.0,2,2,0,2,0,0,,1,2,6,Answer did not match the published procedure on the website.
+V0420,Wave 2,2025-08-13,Telephone,Hearing date enquiry,MS07,Afternoon,1.5,1,1,0,2,,1.0,0,1.0,2,0,0,1,0,0,,1,0,4,Answer did not match the published procedure on the website.
+V0440,Wave 2,2025-08-04,Social media,E-services login help,MS02,Afternoon,115.0,2,1,2,0,1.0,,1,,0,1,2,1,1,1,,2,1,7,Response was only available in one language.
+V0290,Wave 1,2025-02-17,Ancillary services,Mediation information session,MS02,Morning,33.8,0,2,1,2,,2.0,2,2.0,1,0,2,1,0,2,2.0,1,1,7,Answer did not match the published procedure on the website.
+V0284,Wave 1,2025-03-03,Ancillary services,Visitor and accessibility support,MS04,Morning,21.1,1,2,2,2,,2.0,2,2.0,2,2,1,2,2,1,1.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0240,Wave 1,2025-02-21,Registry,Case file inspection request,MS06,Morning,10.7,2,2,2,2,,2.0,2,2.0,2,2,1,1,2,2,1.0,2,0,10,Staff member was courteous and explained the steps clearly.
+V0018,Wave 1,2025-02-28,Email,Filing procedure enquiry,MS04,Afternoon,759.5,2,1,2,0,1.0,,2,1.0,1,1,0,1,0,2,,2,0,8,Enquiry was not resolved and no next step was given.
+V0120,Wave 1,2025-02-06,Telephone,Court fee enquiry,MS04,Morning,0.3,2,0,2,2,,2.0,1,2.0,2,1,2,1,2,2,,1,0,8,Response was only available in one language.
+V0222,Wave 1,2025-02-26,Registry,Certified copy request,MS04,Morning,5.2,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,0,1.0,2,2,8,Staff member was courteous and explained the steps clearly.
+V0566,Wave 2,2025-08-18,Ancillary services,Notarisation / attestation,MS02,Afternoon,22.9,1,0,1,2,,2.0,2,2.0,1,2,1,1,1,1,1.0,0,2,6,Had to wait well beyond the expected time.
+V0057,Wave 1,2025-03-10,Email,Request for case status guidance,MS02,Morning,573.7,2,2,1,1,2.0,,2,1.0,2,2,2,1,2,2,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0275,Wave 1,2025-02-19,Ancillary services,Translation service enquiry,MS03,Afternoon,32.9,0,0,1,2,,1.0,2,1.0,1,1,0,0,0,0,1.0,1,2,6,Had to wait well beyond the expected time.
+V0526,Wave 2,2025-09-04,Registry,Case file inspection request,MS04,Afternoon,2.5,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,2,2.0,2,1,9,"Quick, helpful response with a link to the right e-service."
+V0153,Wave 1,2025-02-28,Social media,E-services login help,MS04,Morning,84.9,2,2,0,2,2.0,,2,,1,1,2,2,2,0,,0,0,9,Answer did not match the published procedure on the website.
+V0384,Wave 2,2025-09-11,Phone,Hearing date enquiry,MS05,Afternoon,0.6,2,2,2,1,,0.0,1,2.0,2,0,1,2,1,0,,1,1,7,Agent could not transfer the call to the right department.
+V0345,Wave 2,2025-09-10,Email,Court fee enquiry,MS04,Afternoon,730.9,2,2,2,2,2.0,,2,2.0,1,2,1,2,1,0,,1,0,8,Agent could not transfer the call to the right department.
+V0268,Wave 1,2025-02-20,Ancillary services,Visitor and accessibility support,MS02,Afternoon,35.5,0,2,2,0,,1.0,2,2.0,2,0,1,1,1,2,0.0,2,2,8,Answer did not match the published procedure on the website.
+V0158,Wave 1,2025-03-14,Social media,General service enquiry,MS08,Afternoon,124.2,1,1,2,1,2.0,,1,,2,0,1,2,1,1,,1,1,8,Information on required documents was incomplete.
+V0514,Wave 2,2025-08-12,Registry,Payment of court fees,MS06,Morning,14.4,2,2,2,2,,2.0,2,2.0,2,2,2,0,1,2,2.0,2,1,8,Staff member was courteous and explained the steps clearly.
+V0273,Wave 1,2025-03-21,Ancillary services,Visitor and accessibility support,MS07,Morning,6.5,2,2,2,2,,1.0,2,0.0,2,1,0,2,1,0,0.0,0,2,8,Had to wait well beyond the expected time.
+V0481,Wave 2,2025-08-14,Registry,Submitting documents at the counter,MS06,Afternoon,18.7,1,2,0,2,,1.0,1,0.0,2,2,1,1,0,2,1.0,2,1,7,Enquiry was not resolved and no next step was given.
+V0093,Wave 1,2025-03-21,Telephone,How to submit an appeal,MS07,Morning,2.7,-1,0,2,1,,2.0,2,2.0,1,1,2,1,0,2,,1,0,8,Response was only available in one language.
+V0015,Wave 1,10/02/2025,Email,Filing procedure enquiry,MS03,Afternoon,1334.4,2,2,2,2,2.0,,2,0.0,2,2,2,2,2,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0413,Wave 2,2025-09-17,Telephone,How to submit an appeal,MS02,Morning,0.3,2,2,2,2,,2.0,2,2.0,1,2,2,2,2,0,,1,2,10,"Quick, helpful response with a link to the right e-service."
+V0210,Wave 1,2025-03-27,Registry,Certified copy request,MS08,Afternoon,9.3,2,1,1,1,,0.0,2,2.0,2,2,2,2,0,1,2.0,2,2,4,Response was only available in one language.
+V0576,Wave 2,2025-08-25,Ancillary services,Mediation information session,MS04,Afternoon,23.6,1,1,2,2,,1.0,1,2.0,2,0,0,1,1,2,1.0,2,0,6,Agent could not transfer the call to the right department.
+V0211,Wave 1,2025-03-03,registry,Payment of court fees,MS08,Morning,10.1,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,2,1.0,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0439,Wave 2,2025-08-20,Social media,Complaint escalation,MS01,Morning,206.2,0,1,2,2,2.0,,2,,2,1,2,2,2,2,,0,2,9,Staff member was courteous and explained the steps clearly.
+V0415,Wave 2,2025-09-03,Telephone,Opening hours and location,MS07,Morning,0.3,2,1,2,2,,2.0,2,2.0,2,1,2,0,0,1,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0165,Wave 1,2025-03-10,Social media,Accessibility enquiry,MS02,Morning,267.5,0,1,2,1,0.0,,1,,2,2,2,0,2,2,,2,0,8,Enquiry was not resolved and no next step was given.
+V0382,Wave 2,2025-09-19,Telephone,Court fee enquiry,MS05,Morning,3.0,0,0,2,1,,1.0,2,2.0,2,0,1,2,0,2,,2,2,7,Enquiry was not resolved and no next step was given.
+V0198,Wave 1,2025-03-19,Registry,Certified copy request,MS08,Afternoon,9.9,2,2,2,1,,2.0,1,2.0,2,2,2,2,1,2,0.0,2,2,9,Correct fee and document list provided first time.
+V0306,Wave 2,2025-09-17,Email,Filing procedure enquiry,MS06,Afternoon,2178.1,0,2,2,1,2.0,,2,2.0,2,1,0,2,2,2,,2,2,8,Correct fee and document list provided first time.
+V0396,Wave 2,2025-09-17,Telephone,Hearing date enquiry,MS02,Afternoon,3.5,0,2,2,1,,1.0,1,2.0,2,1,2,2,1,2,,1,1,10,Answer did not match the published procedure on the website.
+V0067,Wave 1,2025-03-18,Telephone,Opening hours and location,MS02,Afternoon,1.2,1,2,2,2,,2.0,2,0.0,2,1,2,2,2,1,,1,1,9,"Quick, helpful response with a link to the right e-service."
+V0460,Wave 2,2025-08-18,Social media,E-services login help,MS07,Morning,82.0,2,0,2,2,1.0,,0,,2,1,1,2,2,2,,1,2,8,Information on required documents was incomplete.
+V0166,Wave 1,2025-02-06,Social media,E-services login help,MS05,Morning,178.6,1,1,1,2,1.0,,0,,2,2,2,2,1,1,,2,2,7,Enquiry was not resolved and no next step was given.
+V0474,Wave 2,2025-09-15,Social media,General service enquiry,MS08,Afternoon,959.6,0,1,1,2,2.0,,2,,2,2,2,1,0,2,,0,2,9,Answer did not match the published procedure on the website.
+V0320,Wave 2,2025-08-08,Email,Court fee enquiry,MS08,Afternoon,1264.4,2,0,2,2,2.0,,2,2.0,2,1,2,2,1,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0510,Wave 2,2025-08-21,Registry,Payment of court fees,,Afternoon,9.0,2,2,2,2,,2.0,2,2.0,2,1,2,1,1,1,0.0,2,2,9,Correct fee and document list provided first time.
+V0458,Wave 2,2025-08-04,Social media,Accessibility enquiry,MS02,Afternoon,477.5,0,0,0,2,2.0,,1,,2,1,2,1,1,1,,2,1,7,Information on required documents was incomplete.
+V0593,Wave 2,2025-09-15,Ancillary services,Mediation information session,MS08,Afternoon,35.8,0,2,1,2,,1.0,2,1.0,1,0,1,2,1,1,1.0,1,1,5,Answer did not match the published procedure on the website.
+V0317,Wave 2,2025-09-22,Email,Document requirements for a claim,MS04,Afternoon,3585.2,0,1,2,2,2.0,,2,2.0,2,1,1,2,2,2,,2,1,10,Counter staff checked the documents carefully and issued a receipt.
+V0096,Wave 1,31/03/2025,Telephone,Opening hours and location,MS04,Afternoon,0.1,2,0,0,2,,1.0,0,2.0,1,1,2,0,1,1,,1,2,7,Answer did not match the published procedure on the website.
+V0370,Wave 2,2025-09-01,Telephone,Hearing date enquiry,MS02,Afternoon,1.0,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0252,Wave 1,2025-02-25,Ancillary services,Translation service enquiry,MS04,Afternoon,16.5,2,1,1,2,,0.0,2,2.0,2,2,2,2,2,2,1.0,1,2,9,Correct fee and document list provided first time.
+V0521,Wave 2,2025-09-22,Registry,Case file inspection request,MS08,Afternoon,2.7,2,1,2,2,,2.0,2,2.0,2,2,2,1,2,1,0.0,1,2,7,Staff member was courteous and explained the steps clearly.
+V0564,Wave 2,01/10/2025,Ancillary services,Mediation information session,MS08,Afternoon,10.2,2,1,2,2,,2.0,2,2.0,2,1,1,0,1,2,2.0,2,0,10,Had to wait well beyond the expected time.
+V0017,Wave 1,2025-03-24,Email,Filing procedure enquiry,MS04,Morning,443.8,2,2,1,2,1.0,,2,2.0,2,2,0,2,2,2,,2,2,6,Counter staff checked the documents carefully and issued a receipt.
+V0333,Wave 2,2025-08-19,Email,Court fee enquiry,MS04,Afternoon,174.8,2,1,2,2,2.0,,1,2.0,2,1,2,1,1,1,,1,2,,Correct fee and document list provided first time.
+V0248,Wave 1,2025-03-24,Ancillary services,Visitor and accessibility support,MS01,Afternoon,5.2,2,0,1,2,,2.0,2,2.0,1,2,0,0,1,2,0.0,2,2,7,Information on required documents was incomplete.
+V0313,Wave 2,2025-08-18,Email,Request for case status guidance,MS06,Afternoon,1915.2,1,1,1,2,1.0,,2,0.0,2,2,1,1,2,1,,2,2,8,Information on required documents was incomplete.
+V0336,Wave 2,2025-08-18,Email,Filing procedure enquiry,MS07,Afternoon,2489.5,0,0,1,0,2.0,,2,2.0,2,2,1,1,0,2,,2,2,6,Agent could not transfer the call to the right department.
+V0488,Wave 2,2025-09-10,Registry,Certified copy request,MS01,Morning,9.3,2,1,2,2,,2.0,2,0.0,2,2,2,2,2,2,2.0,2,1,8,Staff member was courteous and explained the steps clearly.
+V0331,Wave 2,2025-08-27,Email,Filing procedure enquiry,MS01,Morning,1324.1,2,2,2,1,2.0,,2,2.0,2,1,2,0,1,1,,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0237,Wave 1,2025-02-24,Registry,Payment of court fees,MS07,Afternoon,5.5,2,0,2,2,,1.0,1,1.0,2,2,1,1,2,2,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0503,Wave 2,2025-09-23,Registry,Submitting documents at the counter,MS01,Afternoon,10.1,2,2,1,2,,2.0,2,2.0,2,2,2,1,2,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0178,Wave 1,2025-03-27,Social media,General service enquiry,MS03,Afternoon,216.6,0,2,2,2,2.0,,2,,2,2,2,2,2,2,,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0107,Wave 1,2025-03-10,Telephone,How to submit an appeal,MS07,Morning,0.8,2,2,1,1,,2.0,2,1.0,2,1,1,0,0,2,,1,1,6,Had to wait well beyond the expected time.
+V0025,Wave 1,2025-03-24,Email,Filing procedure enquiry,MS04,Morning,828.0,2,2,2,2,0.0,,1,2.0,2,1,0,1,1,2,,1,2,9,Enquiry was not resolved and no next step was given.
+V0249,Wave 1,2025-03-24,Ancillary services,Translation service enquiry,MS08,Morning,4.9,2,1,2,1,,2.0,2,2.0,2,1,0,2,0,1,2.0,2,2,9,Response was only available in one language.
+V0386,Wave 2,2025-08-04,Telephone,Hearing date enquiry,MS04,Afternoon,0.7,2,0,2,1,,2.0,2,1.0,2,2,2,2,0,2,,0,1,8,Response was only available in one language.
+V0588,Wave 2,18/08/2025,Ancillary services,Translation service enquiry,MS06,Morning,10.8,2,0,2,2,,2.0,2,2.0,2,1,1,1,2,2,2.0,1,2,7,"Quick, helpful response with a link to the right e-service."
+V0141,Wave 1,2025-02-13,Social media,Complaint escalation,MS06,Morning,70.4,2,0,2,2,1.0,,1,,2,2,2,2,2,2,,1,1,8,Staff member was courteous and explained the steps clearly.
+V0068,Wave 1,2025-02-05,Telephone,Court fee enquiry,MS06,Morning,1.9,0,0,1,1,,1.0,2,2.0,2,2,1,2,2,2,,1,2,5,Enquiry was not resolved and no next step was given.
+V0059,Wave 1,2025-03-10,Email,Court fee enquiry,MS06,Morning,1764.1,1,0,2,2,1.0,,2,2.0,2,1,2,2,1,0,,1,2,8,Agent could not transfer the call to the right department.
+V0169,Wave 1,2025-02-10,Social Media,Accessibility enquiry,MS06,Afternoon,218.3,0,0,0,1,0.0,,1,,2,1,0,1,1,1,,0,1,6,Had to wait well beyond the expected time.
+V0046,Wave 1,2025-02-06,Email,Request for case status guidance,MS05,Morning,1053.3,2,0,2,0,1.0,,2,2.0,2,1,0,0,2,2,,1,1,6,Answer did not match the published procedure on the website.
+V0108,Wave 1,2025-02-13,Telephone,Court fee enquiry,MS05,Morning,0.4,2,1,1,0,,2.0,2,0.0,2,2,2,2,0,1,,2,2,9,Enquiry was not resolved and no next step was given.
+V0561,Wave 2,2025-09-29,Ancillary services,Visitor and accessibility support,MS01,Morning,8.1,2,1,0,2,,2.0,2,2.0,2,2,1,2,2,2,0.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0009,Wave 1,2025-02-20,Email,Filing procedure enquiry,MS03,Morning,1113.0,2,0,2,1,2.0,,2,2.0,2,2,2,2,2,2,,2,2,8,Correct fee and document list provided first time.
+V0266,Wave 1,2025-03-17,Ancillary services,Visitor and accessibility support,MS05,Morning,44.2,0,1,2,1,,2.0,2,1.0,2,0,1,2,0,0,0.0,1,0,6,Answer did not match the published procedure on the website.
+V0038,Wave 1,2025-02-10,Email,Request for case status guidance,MS01,Morning,350.2,2,2,2,1,2.0,,2,1.0,2,2,2,0,0,2,,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0117,Wave 1,2025-03-24,Telephone,How to submit an appeal,MS03,Afternoon,2.1,0,2,2,2,,2.0,2,2.0,2,2,2,2,0,1,,1,1,9,Counter staff checked the documents carefully and issued a receipt.
+V0530,Wave 2,2025-10-01,Registry,Submitting documents at the counter,MS02,Afternoon,11.5,2,1,2,2,,2.0,2,2.0,2,2,1,1,2,0,2.0,2,2,6,Counter staff checked the documents carefully and issued a receipt.
+V0429,Wave 2,2025-08-19,Social media,Complaint escalation,MS02,Afternoon,105.6,2,2,2,1,0.0,,2,,2,0,0,2,1,2,,2,2,8,Agent could not transfer the call to the right department.
+V0176,Wave 1,2025-03-28,Social Media,Accessibility enquiry,MS04,Morning,37.1,2,0,1,1,1.0,,1,,2,0,1,1,0,0,,2,1,5,Answer did not match the published procedure on the website.
+V0544,Wave 2,2025-08-11,Ancillary services,Notarisation / attestation,MS03,Morning,18.1,2,2,1,1,,2.0,2,2.0,2,1,2,2,2,2,2.0,1,0,10,Staff member was courteous and explained the steps clearly.
+V0214,Wave 1,2025-03-14,Registry,Case file inspection request,MS01,Afternoon,approx 10,2,0,2,2,,2.0,2,1.0,2,0,2,0,1,1,2.0,2,0,7,Had to wait well beyond the expected time.
+V0479,Wave 2,2025-08-27,Social media,Accessibility enquiry,MS05,Afternoon,205.6,0,1,2,2,2.0,,2,,1,2,0,1,1,2,,2,1,7,Information on required documents was incomplete.
+V0513,Wave 2,2025-09-22,Registry,Payment of court fees,MS04,Afternoon,11.1,2,2,2,2,,2.0,2,2.0,2,2,2,1,2,2,2.0,1,0,9,Staff member was courteous and explained the steps clearly.
+V0048,Wave 1,2025-03-18,Email,Court fee enquiry,MS01,Morning,835.4,2,2,1,2,2.0,,2,2.0,2,0,1,1,1,1,,1,1,6,Answer did not match the published procedure on the website.
+V0149,Wave 1,2025-03-24,Social media,Accessibility enquiry,MS02,Afternoon,101.8,2,2,1,0,1.0,,2,,2,2,1,2,1,0,,2,1,9,Agent could not transfer the call to the right department.
+V0480,Wave 2,2025-08-19,Social media,Complaint escalation,MS03,Afternoon,1112.6,0,2,2,2,2.0,,1,,1,0,2,1,2,1,,2,2,7,Information on required documents was incomplete.
+V0582,Wave 2,2025-09-29,Ancillary services,Mediation information session,MS04,Afternoon,10.0,2,3,1,1,,2.0,1,1.0,1,0,1,0,0,0,0.0,0,2,5,Agent could not transfer the call to the right department.
+V0061,Wave 1,2025-03-24,Telephone,Hearing date enquiry,MS01,Afternoon,0.3,2,2,2,0,,2.0,2,2.0,2,2,2,2,2,2,,2,2,10,Correct fee and document list provided first time.
+V0280,Wave 1,2025-02-14,Ancillary services,Mediation information session,MS03,Afternoon,9.0,2,2,2,2,,2.0,2,1.0,2,2,1,1,2,1,0.0,-1,2,11,"Quick, helpful response with a link to the right e-service."
+V0554,Wave 2,2025-09-04,Ancillary services,Mediation information session,MS05,Morning,6.4,2,2,2,2,,1.0,2,2.0,2,2,1,2,1,1,2.0,2,2,10,Correct fee and document list provided first time.
+V0434,Wave 2,2025-09-01,Social media,Accessibility enquiry,MS04,Afternoon,268.3,0,0,1,1,0.0,,1,,2,1,1,1,2,1,,2,0,6,Had to wait well beyond the expected time.
+V0195,Wave 1,2025-02-17,Registry,Payment of court fees,MS08,Morning,10.5,2,2,2,0,,1.0,2,2.0,2,2,0,1,1,2,2.0,1,2,6,Had to wait well beyond the expected time.
+V0191,Wave 1,2025-03-05,Registry,Submitting documents at the counter,MS08,Morning,16.3,1,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,1.0,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0182,Wave 1,2025-03-31,Registry,Submitting documents at the counter,MS02,Morning,7.4,2,2,2,2,,2.0,2,2.0,2,2,2,1,2,2,0.0,2,2,10,Correct fee and document list provided first time.
+V0583,Wave 2,2025-08-08,Ancillary services,Translation service enquiry,MS05,Afternoon,10.5,2,0,0,2,,1.0,2,2.0,2,0,2,0,0,1,1.0,2,1,6,Answer did not match the published procedure on the website.
+V0276,Wave 1,2025-02-03,Ancillary services,Visitor and accessibility support,MS04,Afternoon,23.3,1,2,2,1,,1.0,2,1.0,1,1,1,0,0,0,1.0,1,2,5,Agent could not transfer the call to the right department.
+V0007,Wave 1,2025-03-07,Email,Request for case status guidance,MS06,Afternoon,953.4,2,2,2,2,2.0,,2,2.0,2,2,2,2,2,2,,0,2,7,Counter staff checked the documents carefully and issued a receipt.
+V0209,Wave 1,2025-03-10,Registry,Payment of court fees,MS06,Afternoon,7.8,2,2,2,2,,2.0,2,2.0,2,2,1,0,1,2,2.0,2,1,10,"Quick, helpful response with a link to the right e-service."
+V0580,Wave 2,2025-08-29,Ancillary services,Mediation information session,MS04,Afternoon,26.3,1,2,1,2,,2.0,1,2.0,2,0,1,1,2,2,1.0,2,2,10,Enquiry was not resolved and no next step was given.
+V0548,Wave 2,2025-08-29,Ancillary services,Translation service enquiry,MS04,Afternoon,6.7,2,2,2,2,,2.0,2,2.0,2,0,2,0,1,0,1.0,2,1,7,Agent could not transfer the call to the right department.
+V0050,Wave 1,2025-03-11,Email,Document requirements for a claim,MS05,Afternoon,251.1,2,2,2,2,2.0,,2,2.0,2,2,1,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0444,Wave 2,2025-09-01,Social media,Accessibility enquiry,MS02,Morning,189.2,0,0,0,2,0.0,,0,,2,2,1,1,1,2,,1,1,5,Information on required documents was incomplete.
+V0202,Wave 1,2025-03-20,Registry,Submitting documents at the counter,MS03,Afternoon,5.9,2,2,2,2,,2.0,2,2.0,2,2,0,2,2,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0206,Wave 1,2025-03-06,Registry counter,Payment of court fees,MS08,Morning,5.6,2,0,2,2,,2.0,2,1.0,2,2,0,0,0,2,0.0,2,2,10,Response was only available in one language.
+V0595,Wave 2,2025-09-25,Ancillary services,Notarisation / attestation,MS04,Afternoon,3.7,2,1,1,2,,2.0,2,2.0,2,2,2,0,2,2,1.0,2,2,8,Correct fee and document list provided first time.
+V0208,Wave 1,2025-03-19,Registry,Case file inspection request,MS02,Morning,14.7,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,1,1.0,2,2,9,"Quick, helpful response with a link to the right e-service."
+V0597,Wave 2,2025-08-13,Ancillary services,Mediation information session,MS04,Morning,25.7,1,0,0,2,,1.0,1,2.0,2,1,0,1,1,0,1.0,2,2,9,Answer did not match the published procedure on the website.
+V0159,Wave 1,2025-02-05,Social media,General service enquiry,MS04,Afternoon,371.4,0,1,0,2,2.0,,1,,2,2,1,2,0,1,,2,2,8,Had to wait well beyond the expected time.
+V0401,Wave 2,2025-09-05,Telephone,Hearing date enquiry,MS04,Afternoon,0.5,2,2,2,2,,2.0,2,2.0,2,2,1,2,0,2,,2,1,10,Counter staff checked the documents carefully and issued a receipt.
+V0173,Wave 1,2025-02-05,Social media,Accessibility enquiry,MS08,Morning,84.3,2,0,0,2,0.0,,0,,2,0,0,1,2,0,,0,0,6,Enquiry was not resolved and no next step was given.
+V0443,Wave 2,2025-08-04,Social media,E-services login help,MS02,Afternoon,119.5,2,2,2,2,1.0,,2,,2,1,2,1,2,1,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0600,Wave 2,2025-09-19,Ancillary services,Translation service enquiry,MS08,Afternoon,14.0,2,2,2,1,,1.0,2,2.0,2,0,2,1,1,1,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0090,Wave 1,2025-03-11,Telephone,Opening hours and location,MS06,Morning,0.8,2,1,2,2,,2.0,1,2.0,2,0,2,1,2,0,,0,2,8,Enquiry was not resolved and no next step was given.
+V0256,Wave 1,2025-03-24,Ancillary services,Visitor and accessibility support,MS01,Morning,12.2,2,0,2,0,,2.0,2,2.0,2,1,0,1,1,2,2.0,0,1,6,Information on required documents was incomplete.
+V0509,Wave 2,2025-08-05,Registry,Payment of court fees,MS06,Morning,6.9,2,2,2,2,,1.0,2,2.0,2,2,2,2,2,2,2.0,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0295,Wave 1,2025-02-20,Ancillary services,Mediation information session,MS07,Morning,31.2,0,2,0,1,,2.0,2,2.0,2,1,1,1,0,2,1.0,1,0,7,Answer did not match the published procedure on the website.
+V0578,Wave 2,2025-09-18,Ancillary services,Mediation information session,MS03,Afternoon,32.6,0,2,1,2,,2.0,2,2.0,2,2,1,1,2,0,2.0,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0027,Wave 1,2025-03-06,Email,Document requirements for a claim,MS02,Afternoon,4045.2,0,2,1,0,2.0,,2,2.0,2,2,2,2,0,1,,2,2,10,Information on required documents was incomplete.
+V0454,Wave 2,2025-09-01,Social media,E-services login help,MS03,Morning,47.6,2,2,2,1,2.0,,2,,2,2,1,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0546,Wave 2,2025-08-06,Ancillary services,Translation service enquiry,MS04,Morning,6.8,2,2,1,2,,2.0,2,2.0,1,0,2,2,2,0,2.0,2,1,8,Staff member was courteous and explained the steps clearly.
+V0587,Wave 2,2025-09-18,Ancillary services,Translation service enquiry,MS04,Morning,47.8,0,1,1,0,,2.0,2,1.0,2,2,0,2,0,2,0.0,2,2,6,Enquiry was not resolved and no next step was given.
+V0125,Wave 1,2025-02-12,Social media,General service enquiry,MS07,Morning,218.2,0,0,2,1,2.0,,1,,2,0,2,0,1,1,,1,1,6,Information on required documents was incomplete.
+V0021,Wave 1,2025-02-26,Email,Filing procedure enquiry,MS04,Morning,1427.6,2,1,2,2,2.0,,2,2.0,2,2,1,2,2,1,,2,1,7,"Quick, helpful response with a link to the right e-service."
+V0296,Wave 1,2025-03-27,Ancillary services,Mediation information session,MS06,Morning,27.3,1,0,1,0,,1.0,1,0.0,2,1,2,1,1,2,1.0,2,2,8,Had to wait well beyond the expected time.
+V0586,Wave 2,2025-08-13,Ancillary services,Visitor and accessibility support,MS04,Afternoon,10.8,2,0,2,2,,1.0,2,2.0,2,0,1,0,1,0,2.0,1,1,9,Answer did not match the published procedure on the website.
+V0389,Wave 2,2025-09-08,Telephone,How to submit an appeal,MS08,Morning,0.9,2,2,2,2,,2.0,2,2.0,2,1,2,2,2,0,,1,2,10,"Quick, helpful response with a link to the right e-service."
+V0043,Wave 1,2025-03-10,Email,Filing procedure enquiry,MS08,Morning,208.9,2,2,2,2,1.0,,2,2.0,1,2,2,2,2,2,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0269,Wave 1,2025-03-19,Ancillary services,Translation service enquiry,MS08,Afternoon,22.4,1,1,1,2,,2.0,1,0.0,2,2,0,2,1,2,2.0,2,1,8,Response was only available in one language.
+V0139,Wave 1,2025-03-06,Social media,Accessibility enquiry,MS06,Morning,96.3,2,1,2,2,1.0,,2,,2,1,2,1,2,2,,0,0,7,Response was only available in one language.
+V0392,Wave 2,2025-09-15,Telephone,How to submit an appeal,MS08,Morning,1.2,1,0,2,1,,2.0,2,2.0,2,1,1,1,1,2,,1,0,7,Answer did not match the published procedure on the website.
+V0569,Wave 2,2025-09-08,Ancillary services,Translation service enquiry,MS02,Morning,5.7,2,2,1,2,,2.0,2,1.0,1,0,1,0,0,1,2.0,2,2,7,Answer did not match the published procedure on the website.
+V0133,Wave 1,2025-02-03,Social media,General service enquiry,MS04,Afternoon,477.9,0,1,1,2,1.0,,1,,2,0,0,1,2,1,,2,1,5,Had to wait well beyond the expected time.
+V0089,Wave 1,2025-03-12,Telephone,Opening hours and location,MS05,Afternoon,0.5,2,2,2,1,,1.0,2,2.0,2,1,1,1,1,1,,2,1,8,Agent could not transfer the call to the right department.
+V0323,Wave 2,2025-09-22,Email,Request for case status guidance,MS04,Morning,1072.2,2,1,0,2,2.0,,2,2.0,2,1,2,2,1,2,,2,2,7,"Quick, helpful response with a link to the right e-service."
+V0228,Wave 1,2025-03-31,Registry,Case file inspection request,MS05,Afternoon,8.6,2,1,1,2,,2.0,2,2.0,2,2,1,2,0,1,0.0,2,1,7,Answer did not match the published procedure on the website.
+V0495,Wave 2,2025-08-05,Registry,Submitting documents at the counter,MS07,Morning,4.8,2,1,2,2,,2.0,2,2.0,2,0,2,2,1,0,0.0,2,2,9,Answer did not match the published procedure on the website.
+V0450,Wave 2,2025-08-19,Social media,E-services login help,MS06,Morning,156.3,1,2,1,2,2.0,,2,,2,2,2,1,1,2,,0,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0288,Wave 1,2025-02-25,Ancillary services,Visitor and accessibility support,MS07,Afternoon,2.4,2,2,1,2,,1.0,0,2.0,2,0,0,1,0,1,1.0,2,1,7,Information on required documents was incomplete.
+V0071,Wave 1,2025-03-27,Phone,Hearing date enquiry,MS02,Afternoon,3.0,0,0,0,1,,2.0,2,2.0,2,1,0,2,1,0,,2,0,5,Information on required documents was incomplete.
+V0243,Wave 1,2025-02-14,Ancillary services,Visitor and accessibility support,MS01,Afternoon,29.4,1,2,2,2,,1.0,2,2.0,2,1,1,1,2,1,1.0,0,2,5,Information on required documents was incomplete.
+V0069,Wave 1,2025-02-11,Telephone,Court fee enquiry,MS03,Morning,1.0,2,1,2,1,,2.0,2,2.0,2,2,1,2,2,2,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0225,Wave 1,2025-02-28,Registry,Payment of court fees,MS07,Morning,3.8,2,1,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,1,10,"Quick, helpful response with a link to the right e-service."
+V0334,Wave 2,2025-09-26,Email,Request for case status guidance,MS03,Afternoon,775.3,2,0,2,2,1.0,,2,2.0,2,2,2,2,2,2,,2,2,8,Correct fee and document list provided first time.
+V0553,Wave 2,2025-09-12,Ancillary services,Visitor and accessibility support,MS02,Afternoon,13.2,2,2,1,2,,2.0,2,2.0,2,0,2,1,0,2,2.0,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0457,Wave 2,2025-09-08,Social media,E-services login help,MS05,Morning,201.0,0,1,2,2,0.0,,2,,2,2,0,2,2,1,,2,1,9,Information on required documents was incomplete.
+V0134,Wave 1,2025-02-17,Social media,General service enquiry,MS05,Afternoon,285.9,0,0,1,0,0.0,,1,,1,1,1,2,2,2,,2,2,8,Information on required documents was incomplete.
+V0388,Wave 2,2025-08-26,Telephone,Opening hours and location,MS07,Morning,1.1,1,1,2,0,,2.0,1,2.0,2,2,2,1,0,0,,1,1,9,Enquiry was not resolved and no next step was given.
+V0485,Wave 2,2025-08-18,Registry,Submitting documents at the counter,MS04,Morning,13.2,2,2,2,2,,2.0,2,2.0,2,2,2,1,2,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0277,Wave 1,2025-03-28,Ancillary services,Notarisation / attestation,MS08,Morning,13.1,2,1,1,2,,2.0,1,2.0,1,2,0,1,2,1,1.0,1,2,10,Had to wait well beyond the expected time.
+V0172,Wave 1,2025-02-21,Social media,Accessibility enquiry,MS05,Morning,78.4,2,0,2,2,2.0,,1,,1,2,1,1,2,0,,1,0,7,Information on required documents was incomplete.
+V0496,Wave 2,2025-08-18,Registry,Payment of court fees,MS03,Afternoon,2.3,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0560,Wave 2,2025-09-15,Ancillary services,Visitor and accessibility support,MS02,Afternoon,45.1,0,2,2,2,,1.0,2,2.0,2,2,2,0,2,0,0.0,2,1,9,Information on required documents was incomplete.
+V0563,Wave 2,2025-09-08,Ancillary services,Notarisation / attestation,MS01,Morning,28.5,1,2,1,1,,0.0,1,2.0,2,0,2,2,0,2,2.0,0,2,9,Information on required documents was incomplete.
+V0302,Wave 2,2025-09-22,Email,Document requirements for a claim,MS01,Morning,1149.9,2,1,2,1,0.0,,2,2.0,2,2,2,1,2,2,,0,2,8,Correct fee and document list provided first time.
+V0037,Wave 1,2025-03-03,Email,Document requirements for a claim,MS06,Morning,524.7,2,2,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0436,Wave 2,2025-09-26,Social media,General service enquiry,MS04,Morning,,0,2,2,2,2.0,,2,,2,1,2,0,2,0,,0,2,7,Enquiry was not resolved and no next step was given.
+V0106,Wave 1,2025-02-12,Telephone,Hearing date enquiry,MS05,Morning,0.8,2,2,2,2,,2.0,2,2.0,2,2,1,2,1,0,,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0383,Wave 2,2025-08-07,Telephone,Opening hours and location,MS01,Afternoon,0.3,2,2,2,2,,2.0,2,1.0,2,2,1,2,1,2,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0126,Wave 1,2025-02-17,Social media,General service enquiry,MS08,Afternoon,157.8,1,0,0,2,2.0,,0,,2,1,2,1,2,1,,2,2,8,Had to wait well beyond the expected time.
+V0179,Wave 1,17/02/2025,Social media,General service enquiry,MS06,Morning,134.1,1,1,0,2,1.0,,2,,2,0,2,0,0,1,,1,1,5,Had to wait well beyond the expected time.
+V0579,Wave 2,2025-09-08,Ancillary services,Mediation information session,MS05,Afternoon,44.8,0,1,2,2,,2.0,0,2.0,2,1,1,0,1,0,1.0,1,1,6,Answer did not match the published procedure on the website.
+V0298,Wave 1,2025-04-01,Ancillary services,Visitor and accessibility support,MS02,Morning,26.1,1,0,2,2,,2.0,2,2.0,2,2,0,2,0,2,0.0,1,1,7,Had to wait well beyond the expected time.
+V0598,Wave 2,2025-09-08,Ancillary services,Notarisation / attestation,MS04,Morning,8.5,2,2,2,1,,2.0,1,2.0,2,1,1,0,2,2,2.0,2,1,7,Staff member was courteous and explained the steps clearly.
+V0045,Wave 1,2025-03-17,Email,Request for case status guidance,MS08,Morning,91.0,2,2,2,2,2.0,,2,0.0,2,2,1,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0260,Wave 1,2025-02-24,Ancillary services,Notarisation / attestation,MS02,Afternoon,13.8,2,2,2,1,,2.0,2,2.0,1,2,2,2,1,0,2.0,2,1,8,"Quick, helpful response with a link to the right e-service."
+V0321,Wave 2,2025-10-01,Email,Filing procedure enquiry,MS08,Afternoon,1102.7,2,1,1,0,2.0,,2,2.0,2,0,1,2,1,1,,1,0,6,Information on required documents was incomplete.
+V0418,Wave 2,2025-09-08,Telephone,How to submit an appeal,MS06,Afternoon,approx 10,1,1,1,1,,1.0,2,1.0,2,2,2,0,1,0,,0,0,6,Agent could not transfer the call to the right department.
+V0305,Wave 2,2025-08-25,Email,Request for case status guidance,MS01,Morning,2226.6,0,2,2,2,2.0,,0,2.0,2,2,1,2,2,2,,2,2,8,Correct fee and document list provided first time.
+V0422,Wave 2,2025-08-11,Social Media,Complaint escalation,MS05,Afternoon,366.0,0,0,1,2,2.0,,2,,2,2,2,1,2,1,,2,2,6,Answer did not match the published procedure on the website.
+V0245,Wave 1,2025-02-10,Ancillary services,Mediation information session,MS08,Afternoon,42.2,0,2,2,0,,2.0,1,0.0,1,0,1,2,1,1,2.0,1,1,6,Answer did not match the published procedure on the website.
+V0177,Wave 1,27/03/2025,Social media,Accessibility enquiry,MS06,Afternoon,263.8,0,0,1,2,1.0,,2,,1,1,1,0,1,0,,1,2,5,Enquiry was not resolved and no next step was given.
+V0414,Wave 2,2025-09-09,Telephone,Hearing date enquiry,MS05,Morning,1.5,1,1,1,2,,2.0,2,1.0,2,0,2,2,0,1,,2,2,9,Enquiry was not resolved and no next step was given.
+V0303,Wave 2,2025-09-22,Email,Filing procedure enquiry,MS07,Afternoon,1173.3,2,1,2,2,2.0,,1,0.0,2,2,1,2,2,1,,2,1,8,Counter staff checked the documents carefully and issued a receipt.
+V0200,Wave 1,2025-02-21,Registry,Submitting documents at the counter,MS04,Morning,12.3,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0261,Wave 1,2025-02-28,Ancillary services,Mediation information session,MS05,Afternoon,25.7,1,2,2,2,,0.0,2,1.0,1,1,0,0,0,2,2.0,0,2,5,Answer did not match the published procedure on the website.
+V0341,Wave 2,2025-09-03,Email,Filing procedure enquiry,MS03,Morning,1420.3,2,2,2,2,2.0,,2,2.0,2,2,2,2,1,2,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0115,Wave 1,2025-02-10,Telephone,How to submit an appeal,MS07,Morning,1.1,1,0,2,2,,1.0,2,2.0,2,0,1,1,1,1,,2,1,7,Agent could not transfer the call to the right department.
+V0502,Wave 2,2025-08-25,Registry,Payment of court fees,MS01,Morning,6.7,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,0,2.0,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0081,Wave 1,2025-04-01,Telephone,Hearing date enquiry,MS08,Afternoon,0.2,2,2,2,1,,0.0,2,2.0,2,2,2,2,0,2,,2,0,9,"Quick, helpful response with a link to the right e-service."
+V0168,Wave 1,2025-02-04,Social media,E-services login help,MS05,Afternoon,185.0,0,2,2,2,2.0,,2,,2,2,0,2,1,1,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0340,Wave 2,2025-08-18,Email,Request for case status guidance,MS07,Afternoon,1164.7,2,1,2,1,2.0,,2,2.0,2,2,1,2,1,1,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0318,Wave 2,2025-09-23,Email,Filing procedure enquiry,MS06,Morning,1165.9,2,2,2,2,2.0,,2,2.0,1,0,2,2,0,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0247,Wave 1,2025-02-14,Ancillary services,Visitor and accessibility support,MS06,Morning,9.2,2,1,1,1,,1.0,2,2.0,2,0,1,2,2,2,2.0,2,1,8,Agent could not transfer the call to the right department.
+V0319,Wave 2,2025-09-08,Email,Court fee enquiry,MS01,Afternoon,523.5,n/a,1,1,2,2.0,,2,2.0,2,1,2,2,0,1,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0395,Wave 2,2025-08-27,Telephone,Hearing date enquiry,MS03,Afternoon,0.3,2,1,2,2,,2.0,2,2.0,1,2,2,2,2,2,,2,2,9,"Quick, helpful response with a link to the right e-service."
+V0581,Wave 2,2025-08-25,Ancillary services,Notarisation / attestation,MS02,Morning,17.5,2,1,1,1,,2.0,0,1.0,2,2,1,0,2,1,2.0,2,1,8,Answer did not match the published procedure on the website.
+V0534,Wave 2,2025-08-29,Registry,Case file inspection request,MS01,Morning,22.7,0,2,2,2,,2.0,2,2.0,2,2,1,2,0,1,1.0,2,0,9,Information on required documents was incomplete.
+V0431,Wave 2,2025-08-25,Social media,Accessibility enquiry,MS04,Morning,479.2,0,2,2,2,1.0,,2,,0,1,1,1,2,0,,2,2,10,Information on required documents was incomplete.
+V0226,Wave 1,2025-03-25,Registry,Case file inspection request,MS08,Afternoon,4.8,2,2,1,2,,2.0,2,2.0,2,2,2,1,2,2,2.0,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0189,Wave 1,2025-03-17,Registry,Submitting documents at the counter,MS08,Morning,approx 10,1,2,2,2,,2.0,2,2.0,2,2,1,2,1,1,2.0,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0224,Wave 1,2025-03-31,Registry,Payment of court fees,MS06,Afternoon,9.3,2,2,2,2,,2.0,2,2.0,2,0,2,2,1,2,2.0,2,2,7,Staff member was courteous and explained the steps clearly.
+V0572,Wave 2,2025-08-18,Ancillary services,Visitor and accessibility support,MS01,Morning,22.3,1,1,0,1,,2.0,2,2.0,1,0,2,0,2,0,2.0,2,2,7,Agent could not transfer the call to the right department.
+V0322,Wave 2,2025-08-20,Email,Document requirements for a claim,MS04,Afternoon,1603.5,1,2,1,2,0.0,,2,2.0,2,1,2,0,2,2,,2,1,8,Had to wait well beyond the expected time.
+V0419,Wave 2,2025-08-11,Telephone,Court fee enquiry,MS02,Afternoon,2.3,0,1,1,2,,2.0,2,2.0,2,0,0,1,0,0,,2,0,7,Answer did not match the published procedure on the website.
+V0511,Wave 2,2025-09-19,Registry,Payment of court fees,MS02,Morning,10.4,2,2,2,2,,2.0,2,0.0,2,2,2,2,1,1,0.0,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0013,Wave 1,2025-02-10,Email,Filing procedure enquiry,MS04,Afternoon,5333.5,0,2,2,2,2.0,,1,2.0,1,2,2,1,2,1,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0304,Wave 2,2025-08-06,Email,Filing procedure enquiry,MS07,Morning,1339.7,2,0,2,2,1.0,,2,1.0,1,1,1,0,0,0,,0,2,10,Response was only available in one language.
+V0175,Wave 1,2025-02-17,Social media,General service enquiry,MS07,Morning,203.2,0,1,2,2,1.0,,2,,2,2,2,2,2,2,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0344,Wave 2,2025-09-25,Email,Filing procedure enquiry,MS01,Morning,1878.2,1,2,2,2,2.0,,2,2.0,2,2,2,2,1,0,,2,1,10,Staff member was courteous and explained the steps clearly.
+V0063,Wave 1,12/03/2025,Telephone,Opening hours and location,MS07,Morning,0.6,2,0,1,1,,1.0,1,1.0,2,0,0,0,0,1,,1,1,7,Response was only available in one language.
+V0574,Wave 2,2025-08-29,Ancillary services,Notarisation / attestation,MS05,Afternoon,14.8,2,2,0,2,,2.0,2,1.0,2,0,0,2,2,2,1.0,2,1,7,Information on required documents was incomplete.
+V0267,Wave 1,2025-02-03,Ancillary services,Notarisation / attestation,MS02,Afternoon,5.8,2,1,1,2,,2.0,2,1.0,2,0,2,1,2,0,2.0,2,2,10,Agent could not transfer the call to the right department.
+V0162,Wave 1,14/03/2025,Social media,Accessibility enquiry,MS02,Afternoon,172.7,1,0,1,1,2.0,,0,,0,1,0,0,0,0,,0,1,4,Had to wait well beyond the expected time.
+V0187,Wave 1,2025-02-10,Registry,Payment of court fees,MS03,Afternoon,5.4,2,2,1,2,,2.0,0,2.0,2,2,1,2,1,2,2.0,2,0,10,"Quick, helpful response with a link to the right e-service."
+V0412,Wave 2,2025-08-08,Telephone,Court fee enquiry,MS01,Morning,0.3,2,2,2,2,,2.0,2,2.0,2,2,2,2,0,1,,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0100,Wave 1,2025-02-26,Telephone,How to submit an appeal,MS03,Morning,0.2,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,2,,2,2,9,Correct fee and document list provided first time.
+V0217,Wave 1,2025-02-14,Registry,Certified copy request,MS03,Afternoon,22.4,1,2,2,2,,0.0,2,2.0,2,2,2,2,2,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0282,Wave 1,2025-02-18,Ancillary services,Mediation information session,MS08,Afternoon,9.5,2,1,2,2,,1.0,2,2.0,2,1,0,1,2,1,2.0,2,1,8,Answer did not match the published procedure on the website.
+V0079,Wave 1,2025-03-24,Telephone,Opening hours and location,MS04,Afternoon,0.2,2,2,1,0,,2.0,2,2.0,2,0,0,2,0,0,,1,2,5,Had to wait well beyond the expected time.
+V0369,Wave 2,2025-09-24,Telephone,Hearing date enquiry,MS08,Afternoon,1.0,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,2,,2,2,10,Correct fee and document list provided first time.
+V0355,Wave 2,2025-09-03,Email,Court fee enquiry,MS06,Morning,543.2,2,1,2,2,1.0,,2,2.0,2,1,2,1,2,2,,2,1,10,Counter staff checked the documents carefully and issued a receipt.
+V0347,Wave 2,2025-09-11,Email,Court fee enquiry,MS03,Afternoon,1286.0,2,2,2,2,2.0,,1,2.0,2,2,2,2,1,2,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0472,Wave 2,2025-09-01,Social media,E-services login help,MS07,Afternoon,478.2,0,0,2,1,2.0,,2,,1,2,2,2,2,0,,2,0,6,Information on required documents was incomplete.
+V0163,Wave 1,2025-03-25,Social media,E-services login help,MS02,Morning,399.8,0,0,2,1,2.0,,2,,1,1,2,1,2,2,,1,2,8,Information on required documents was incomplete.
+V0105,Wave 1,2025-03-10,Telephone,Hearing date enquiry,MS08,Morning,1.9,0,0,2,2,,2.0,2,2.0,0,2,2,2,1,0,,2,2,8,Enquiry was not resolved and no next step was given.
+V0504,Wave 2,2025-09-22,Registry counter,Payment of court fees,MS08,Morning,24.0,0,0,2,1,,2.0,2,2.0,2,2,2,0,2,1,2.0,2,1,8,Information on required documents was incomplete.
+V0564,Wave 2,01/10/2025,Ancillary services,Mediation information session,MS08,Afternoon,10.2,2,1,2,2,,2.0,2,2.0,2,1,1,0,1,2,2.0,2,0,10,Had to wait well beyond the expected time.
+V0251,Wave 1,2025-02-03,Ancillary services,Translation service enquiry,MS03,Afternoon,20.5,1,1,0,2,,2.0,2,2.0,2,2,1,2,1,1,0.0,2,1,7,Had to wait well beyond the expected time.
+V0350,Wave 2,2025-09-26,Email,Filing procedure enquiry,MS06,Morning,1799.7,1,2,2,2,2.0,,2,2.0,2,2,2,1,2,1,,2,1,10,Counter staff checked the documents carefully and issued a receipt.
+V0591,Wave 2,2025-09-26,Ancillary services,Visitor and accessibility support,MS06,Morning,8.1,2,2,1,2,,1.0,2,2.0,2,1,0,0,0,2,2.0,1,0,8,Enquiry was not resolved and no next step was given.
+V0112,Wave 1,2025-03-03,Telephone,Opening hours and location,MS06,Morning,1.1,1,2,2,2,,2.0,2,2.0,1,2,2,2,2,0,,2,1,8,Staff member was courteous and explained the steps clearly.
+V0164,Wave 1,2025-02-24,Social media,Complaint escalation,MS04,Afternoon,130.2,1,0,2,0,1.0,,1,,0,2,1,0,1,0,,0,0,6,Had to wait well beyond the expected time.
+V0316,Wave 2,2025-08-18,Email,Filing procedure enquiry,MS05,Morning,966.3,2,2,2,2,2.0,,2,2.0,2,2,1,2,1,2,,1,1,10,Correct fee and document list provided first time.
+V0250,Wave 1,2025-02-14,Ancillary services,Visitor and accessibility support,MS01,Afternoon,6.7,2,1,2,2,,2.0,2,2.0,0,1,0,1,0,2,1.0,0,2,10,Agent could not transfer the call to the right department.
+V0470,Wave 2,2025-09-22,Social media,Complaint escalation,MS07,Afternoon,367.3,0,0,2,2,0.0,,1,,1,2,0,0,0,0,,0,1,4,Response was only available in one language.
+V0484,Wave 2,2025-09-09,Registry,Case file inspection request,MS07,Afternoon,4.7,2,2,2,2,,2.0,2,2.0,2,2,1,2,2,0,2.0,1,2,8,"Quick, helpful response with a link to the right e-service."
+V0556,Wave 2,2025-08-14,Ancillary services,Translation service enquiry,MS05,Afternoon,10.5,2,1,1,2,,1.0,2,0.0,2,0,0,1,0,0,0.0,2,1,7,Information on required documents was incomplete.
+V0380,Wave 2,2025-09-18,Telephone,Opening hours and location,MS08,Afternoon,3.9,0,1,1,2,,2.0,2,2.0,2,2,2,1,2,1,,2,0,9,Agent could not transfer the call to the right department.
+V0594,Wave 2,2025-08-19,Ancillary services,Mediation information session,MS02,Afternoon,12.8,2,1,1,2,,2.0,2,1.0,1,2,1,1,1,1,2.0,2,2,9,Agent could not transfer the call to the right department.
+V0286,Wave 1,2025-03-05,Ancillary services,Mediation information session,MS08,Morning,17.7,2,2,1,0,,2.0,2,2.0,2,1,1,0,1,1,1.0,1,2,9,Answer did not match the published procedure on the website.
+V0122,Wave 1,2025-02-14,Social media,E-services login help,MS05,Morning,194.9,0,0,2,2,2.0,,2,,1,2,2,2,2,2,,1,2,6,Correct fee and document list provided first time.
+V0078,Wave 1,2025-03-03,Telephone,Opening hours and location,MS07,Morning,0.3,2,1,2,2,,2.0,2,2.0,2,1,2,1,2,0,,2,2,9,Correct fee and document list provided first time.
+V0181,Wave 1,2025-02-20,Registry,Case file inspection request,MS06,Afternoon,2.9,2,2,2,2,,1.0,2,2.0,1,0,2,2,2,2,2.0,2,2,8,Correct fee and document list provided first time.
+V0425,Wave 2,2025-08-11,Social media,Accessibility enquiry,MS08,Morning,307.1,0,1,2,1,2.0,,2,,1,2,0,2,2,2,,2,1,9,Response was only available in one language.
+V0010,Wave 1,2025-03-21,Email,Court fee enquiry,MS04,Morning,1258.1,2,2,2,0,2.0,,0,2.0,2,2,1,2,2,0,,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0171,Wave 1,2025-03-10,Social media,Accessibility enquiry,MS02,Afternoon,563.1,0,1,2,0,1.0,,2,,2,2,0,2,1,1,,2,1,7,Enquiry was not resolved and no next step was given.
+V0456,Wave 2,2025-09-12,Social media,E-services login help,MS01,Afternoon,415.4,0,1,1,1,2.0,,1,,2,0,2,1,1,1,,0,1,7,Had to wait well beyond the expected time.
+V0184,Wave 1,2025-02-24,Registry,Submitting documents at the counter,MS02,Afternoon,10.9,2,1,0,2,,1.0,1,2.0,2,2,2,1,0,1,2.0,2,2,7,Had to wait well beyond the expected time.
+V0500,Wave 2,2025-09-12,Registry,Payment of court fees,MS07,Afternoon,14.1,2,1,2,2,,1.0,2,0.0,2,1,1,1,2,1,1.0,2,0,6,Enquiry was not resolved and no next step was given.
+V0512,Wave 2,2025-09-08,Registry,Submitting documents at the counter,MS01,Morning,7.5,2,2,2,2,,2.0,2,2.0,2,2,2,0,2,0,2.0,2,2,10,Correct fee and document list provided first time.
+V0234,Wave 1,2025-03-28,Registry,Case file inspection request,MS03,Morning,25.0,0,2,2,2,,2.0,2,2.0,2,0,2,0,2,2,2.0,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0577,Wave 2,2025-09-15,Ancillary services,Translation service enquiry,MS07,Morning,37.4,0,1,1,1,,1.0,0,2.0,0,1,0,0,2,0,0.0,1,2,4,Answer did not match the published procedure on the website.
+V0167,Wave 1,2025-03-24,Social media,Complaint escalation,MS07,Morning,449.1,0,0,1,0,2.0,,0,,2,0,1,1,0,1,,0,0,5,Enquiry was not resolved and no next step was given.
+V0109,Wave 1,2025-03-03,Telephone,How to submit an appeal,MS01,Morning,1.9,0,2,2,1,,2.0,2,1.0,2,0,1,2,2,0,,2,2,9,Answer did not match the published procedure on the website.
+V0475,Wave 2,2025-08-29,Social media,E-services login help,MS01,Afternoon,41.9,2,2,1,1,0.0,,2,,1,0,0,0,1,2,,2,2,6,Information on required documents was incomplete.
+V0466,Wave 2,2025-09-19,Social media,E-services login help,MS02,Morning,138.5,1,1,2,2,0.0,,2,,2,1,1,0,1,0,,0,0,6,Response was only available in one language.
+V0570,Wave 2,2025-09-19,Ancillary services,Visitor and accessibility support,MS01,Morning,36.1,0,2,0,2,,1.0,1,2.0,2,1,0,1,1,1,1.0,2,0,6,Had to wait well beyond the expected time.
+V0446,Wave 2,2025-09-12,Social media,E-services login help,MS04,Morning,407.7,0,0,2,2,2.0,,2,,2,2,0,2,0,2,,2,2,6,Response was only available in one language.
+V0590,Wave 2,2025-09-29,Ancillary services,Translation service enquiry,MS07,Afternoon,6.6,2,2,0,0,,2.0,0,2.0,2,2,0,0,1,0,2.0,1,2,7,Agent could not transfer the call to the right department.
+V0196,Wave 1,2025-02-18,Registry,Certified copy request,MS04,Morning,22.2,1,2,2,2,,2.0,2,2.0,1,2,1,2,1,2,2.0,1,2,10,Staff member was courteous and explained the steps clearly.
+V0077,Wave 1,2025-03-07,Telephone,How to submit an appeal,MS06,Morning,0.4,2,2,2,2,,1.0,1,2.0,0,0,2,2,1,1,,2,2,5,Response was only available in one language.
+V0498,Wave 2,2025-08-18,Registry,Case file inspection request,MS03,Morning,23.7,0,1,2,2,,2.0,1,2.0,2,2,1,2,2,2,1.0,2,2,10,Correct fee and document list provided first time.
+V0311,Wave 2,2025-08-26,Email,Document requirements for a claim,MS05,Afternoon,3705.2,0,2,0,1,1.0,,1,2.0,2,2,2,0,0,2,,2,1,8,Had to wait well beyond the expected time.
+V0239,Wave 1,2025-03-17,Registry,Submitting documents at the counter,MS07,Afternoon,14.2,2,2,2,2,,2.0,0,2.0,2,2,1,1,2,0,2.0,2,0,9,Answer did not match the published procedure on the website.
+V0527,Wave 2,2025-09-22,Registry,Payment of court fees,MS06,Morning,4.0,2,2,2,2,,2.0,0,0.0,2,2,1,2,2,2,2.0,2,1,8,Correct fee and document list provided first time.
+V0142,Wave 1,2025-04-01,Social media,General service enquiry,MS02,Afternoon,305.2,0,2,1,1,1.0,,2,,2,0,1,0,2,1,,2,2,6,Agent could not transfer the call to the right department.
+V0542,Wave 2,2025-08-15,Ancillary services,Mediation information session,MS04,Morning,2.9,2,2,2,2,,1.0,2,2.0,0,2,0,1,2,2,2.0,2,0,10,Answer did not match the published procedure on the website.
+V0151,Wave 1,2025-02-05,Social media,Complaint escalation,MS07,Morning,349.9,0,1,1,1,2.0,,2,,2,2,1,1,2,0,,0,2,6,Response was only available in one language.
+V0410,Wave 2,2025-08-27,Telephone,Court fee enquiry,MS06,Morning,2.2,0,1,2,1,,2.0,2,2.0,2,1,1,2,0,2,,1,0,9,Enquiry was not resolved and no next step was given.
+V0131,Wave 1,2025-02-21,Social media,Accessibility enquiry,MS06,Afternoon,197.0,0,1,2,2,2.0,,0,,1,0,0,2,1,1,,1,2,7,Answer did not match the published procedure on the website.
+V0493,Wave 2,2025-08-14,Registry,Submitting documents at the counter,MS08,Afternoon,12.4,2,0,2,2,,0.0,2,2.0,2,1,1,2,2,2,1.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0464,Wave 2,2025-09-30,Social media,Accessibility enquiry,MS07,Morning,89.4,2,1,1,2,2.0,,1,,2,2,1,0,2,1,,2,2,8,Answer did not match the published procedure on the website.
+V0073,Wave 1,2025-02-24,Telephone,Hearing date enquiry,MS05,Morning,1.5,1,1,1,2,,1.0,2,2.0,2,1,2,2,0,0,,2,1,8,Enquiry was not resolved and no next step was given.
+V0584,Wave 2,2025-08-07,Ancillary services,Mediation information session,MS01,Afternoon,7.3,2,1,2,2,,1.0,2,2.0,2,2,2,0,1,2,1.0,2,2,10,Correct fee and document list provided first time.
+V0328,Wave 2,2025-08-29,Email,Court fee enquiry,MS08,Afternoon,367.9,2,2,2,2,2.0,,1,2.0,2,1,1,2,1,0,,1,2,8,Correct fee and document list provided first time.
+V0406,Wave 2,2025-08-28,Telephone,Opening hours and location,MS07,Morning,1.7,0,0,2,0,,1.0,0,0.0,2,0,0,1,1,0,,1,1,3,Response was only available in one language.
+V0476,Wave 2,2025-09-15,Social media,Complaint escalation,MS07,Morning,226.1,0,1,2,2,2.0,,2,,2,2,1,0,2,1,,2,2,8,Had to wait well beyond the expected time.
+V0153,Wave 1,2025-02-28,Social media,E-services login help,MS04,Morning,84.9,2,2,0,2,2.0,,2,,1,1,2,2,2,0,,0,0,9,Answer did not match the published procedure on the website.
+V0294,Wave 1,2025-03-03,Ancillary services,Notarisation / attestation,MS08,Morning,7.4,2,2,2,2,,2.0,2,2.0,2,1,1,2,2,1,2.0,2,1,7,Staff member was courteous and explained the steps clearly.
+V0532,Wave 2,2025-08-25,Registry,Case file inspection request,MS04,Afternoon,3.1,2,2,1,2,,2.0,2,2.0,2,2,2,2,1,2,1.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0263,Wave 1,2025-04-02,Ancillary services,Visitor and accessibility support,MS04,Morning,3.1,2,2,2,0,,2.0,2,1.0,1,1,1,1,2,0,2.0,2,2,10,Had to wait well beyond the expected time.
+V0506,Wave 2,2025-09-23,Registry,Submitting documents at the counter,MS06,Morning,9.6,2,2,2,2,,0.0,2,2.0,2,2,2,1,2,0,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0529,Wave 2,2025-08-18,Registry counter,Case file inspection request,MS04,Morning,6.2,2,1,2,2,,2.0,2,2.0,2,2,2,2,0,1,1.0,1,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0254,Wave 1,2025-03-07,Ancillary services,Mediation information session,MS04,Afternoon,32.9,0,2,2,0,,1.0,1,2.0,2,1,0,0,1,2,2.0,1,2,7,Agent could not transfer the call to the right department.
+V0522,Wave 2,2025-09-08,Registry,Payment of court fees,MS08,Afternoon,7.2,2,2,2,2,,2.0,2,2.0,2,1,0,2,2,2,2.0,1,2,8,Correct fee and document list provided first time.
+V0354,Wave 2,2025-09-15,Email,Filing procedure enquiry,MS08,Morning,552.4,2,2,2,2,2.0,,2,2.0,1,0,2,2,1,2,,2,2,10,Correct fee and document list provided first time.
+V0407,Wave 2,2025-08-22,Telephone,Court fee enquiry,MS07,Morning,1.0,2,0,2,2,,2.0,2,0.0,2,2,2,1,0,2,,1,2,8,Agent could not transfer the call to the right department.
+V0244,Wave 1,2025-03-24,Ancillary services,Mediation information session,MS04,Afternoon,36.8,0,0,1,1,,0.0,2,2.0,2,1,2,1,0,2,0.0,0,0,5,Enquiry was not resolved and no next step was given.
+V0363,Wave 2,2025-09-01,Telephone,Court fee enquiry,,Morning,0.1,2,2,1,1,,2.0,2,2.0,2,2,2,1,1,1,,2,2,9,Correct fee and document list provided first time.
+V0124,Wave 1,2025-03-13,Social media,Accessibility enquiry,MS03,Afternoon,552.5,0,2,1,2,2.0,,2,,2,2,1,1,1,2,,2,2,7,"Quick, helpful response with a link to the right e-service."
+V0528,Wave 2,2025-08-25,Registry,Certified copy request,MS01,Morning,14.4,2,1,2,2,,2.0,2,2.0,2,2,2,2,2,1,2.0,1,2,9,Staff member was courteous and explained the steps clearly.
+V0571,Wave 2,2025-08-21,Ancillary services,Translation service enquiry,MS08,Afternoon,7.5,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,1.0,2,2,10,Correct fee and document list provided first time.
+V0246,Wave 1,2025-03-11,Ancillary services,Translation service enquiry,MS05,Morning,8.0,2,2,2,1,,0.0,2,2.0,0,0,1,1,1,1,1.0,2,1,8,Agent could not transfer the call to the right department.
+V0281,Wave 1,2025-02-13,Ancillary services,Visitor and accessibility support,MS03,Afternoon,24.0,1,2,2,2,,2.0,2,2.0,2,2,1,2,1,2,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0547,Wave 2,2025-09-01,ancillary services,Translation service enquiry,MS02,Morning,10.4,2,1,2,0,,2.0,2,0.0,2,1,1,2,1,2,1.0,2,2,7,Information on required documents was incomplete.
+V0137,Wave 1,2025-03-20,Social media,E-services login help,MS06,Afternoon,113.0,2,2,2,2,1.0,,0,,1,1,2,2,1,2,,2,2,9,"Quick, helpful response with a link to the right e-service."
+V0199,Wave 1,2025-04-01,Registry,Submitting documents at the counter,MS03,Afternoon,5.7,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,2,2.0,1,2,8,"Quick, helpful response with a link to the right e-service."
+V0101,Wave 1,2025-03-31,Telephone,Opening hours and location,MS03,Morning,0.2,2,2,2,2,,2.0,2,2.0,2,2,2,2,1,2,,2,2,8,Staff member was courteous and explained the steps clearly.
+V0567,Wave 2,2025-08-08,Ancillary services,Mediation information session,MS02,Afternoon,6.9,2,1,2,1,,1.0,2,2.0,2,1,0,2,1,2,2.0,2,0,9,Had to wait well beyond the expected time.
+V0428,Wave 2,2025-08-18,Social media,General service enquiry,MS02,Afternoon,510.1,0,0,2,0,2.0,,0,,2,1,2,2,2,0,,0,1,6,Agent could not transfer the call to the right department.
+V0180,Wave 1,2025-03-07,Social media,Accessibility enquiry,MS03,Morning,564.9,0,2,2,2,1.0,,2,,2,2,2,2,2,0,,2,1,7,Staff member was courteous and explained the steps clearly.
+V0402,Wave 2,2025-09-29,Telephone,How to submit an appeal,MS01,Morning,2.9,0,2,2,2,,2.0,2,2.0,2,1,1,2,2,2,,2,0,8,Staff member was courteous and explained the steps clearly.
+V0170,Wave 1,2025-02-27,Social media,E-services login help,MS02,Morning,365.6,0,1,1,1,1.0,,1,,2,1,1,2,0,2,,2,2,8,Answer did not match the published procedure on the website.
+V0236,Wave 1,2025-03-10,Registry,Case file inspection request,MS01,Morning,6.5,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,0,2,10,Correct fee and document list provided first time.
+V0030,Wave 1,2025-02-06,Email,Document requirements for a claim,MS03,Afternoon,594.7,2,2,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0072,Wave 1,2025-03-31,Telephone,Hearing date enquiry,MS07,Morning,0.7,2,0,1,1,,2.0,2,2.0,0,2,2,2,1,0,,1,0,6,Information on required documents was incomplete.
+V0467,Wave 2,2025-08-29,Social media,E-services login help,MS01,Morning,103.1,2,2,2,2,2.0,,2,,2,1,2,2,2,2,,2,2,10,Correct fee and document list provided first time.
+V0285,Wave 1,2025-03-17,Ancillary services,Notarisation / attestation,MS04,Morning,14.7,2,0,2,1,,2.0,2,2.0,0,0,2,1,0,0,1.0,2,2,5,Response was only available in one language.
+V0330,Wave 2,2025-09-29,Email,Filing procedure enquiry,MS07,Afternoon,884.6,2,2,2,0,2.0,,2,2.0,2,2,2,2,1,2,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0596,Wave 2,2025-09-04,Ancillary services,Notarisation / attestation,MS01,Morning,24.3,1,1,1,2,,1.0,2,1.0,2,2,2,0,1,2,2.0,2,2,8,Had to wait well beyond the expected time.
+V0143,Wave 1,2025-03-31,Social media,Accessibility enquiry,MS05,Morning,101.7,2,2,2,2,0.0,,2,,1,2,2,1,2,1,,1,2,9,Staff member was courteous and explained the steps clearly.
+V0353,Wave 2,2025-10-01,Email,Court fee enquiry,MS05,Afternoon,560.3,2,1,2,2,2.0,,1,2.0,2,2,2,2,0,0,,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0519,Wave 2,2025-08-19,Registry,Submitting documents at the counter,MS08,Afternoon,28.4,0,2,2,2,,2.0,2,2.0,1,2,2,2,1,2,2.0,2,2,10,Correct fee and document list provided first time.
+V0014,Wave 1,2025-03-03,Email,Document requirements for a claim,MS05,Afternoon,1059.0,2,0,2,2,1.0,,2,2.0,2,2,2,0,2,1,,2,2,8,"Quick, helpful response with a link to the right e-service."
+V0132,Wave 1,2025-02-17,Social media,Complaint escalation,MS08,Afternoon,119.8,2,0,1,1,1.0,,1,,2,2,0,0,1,1,,1,2,5,Had to wait well beyond the expected time.
+V0036,Wave 1,2025-02-07,Email,Document requirements for a claim,MS05,Afternoon,951.8,2,2,2,2,2.0,,2,2.0,2,2,2,1,2,2,,1,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0543,Wave 2,2025-08-04,Ancillary services,Mediation information session,MS08,Morning,23.4,1,2,2,2,,1.0,2,2.0,2,0,1,1,1,1,0.0,1,0,7,Answer did not match the published procedure on the website.
+V0332,Wave 2,2025-09-29,Email,Document requirements for a claim,MS04,Morning,313.7,2,2,2,2,2.0,,2,2.0,2,1,1,2,2,2,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0356,Wave 2,2025-08-29,Email,Document requirements for a claim,MS07,Morning,690.7,2,2,1,0,2.0,,2,2.0,2,1,2,1,0,2,,1,2,10,Had to wait well beyond the expected time.
+V0203,Wave 1,2025-03-24,Registry,Payment of court fees,MS07,Morning,6.0,2,2,2,2,,2.0,2,2.0,2,2,1,2,2,1,2.0,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0424,Wave 2,2025-09-29,Social media,General service enquiry,MS04,Morning,252.8,0,0,0,2,1.0,,2,,2,1,1,0,1,2,,1,1,7,Answer did not match the published procedure on the website.
+V0525,Wave 2,2025-09-15,Registry,Payment of court fees,MS04,Morning,10.6,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0127,Wave 1,2025-03-10,Social media,General service enquiry,MS02,Afternoon,353.4,0,0,2,2,2.0,,2,,0,2,2,0,1,0,,1,1,7,Information on required documents was incomplete.
+V0040,Wave 1,2025-02-10,Email,Filing procedure enquiry,MS07,Morning,520.3,2,0,2,2,2.0,,2,2.0,2,1,2,2,0,1,,2,0,7,Agent could not transfer the call to the right department.
+V0056,Wave 1,2025-02-03,Email,Filing procedure enquiry,MS04,Morning,975.9,2,1,1,2,2.0,,2,2.0,2,0,0,2,1,2,,2,2,10,Staff member was courteous and explained the steps clearly.
+V0462,Wave 2,2025-08-18,Social media,Accessibility enquiry,MS08,Afternoon,285.4,0,0,2,0,2.0,,0,,2,0,0,2,2,1,,0,2,5,Had to wait well beyond the expected time.
+V0499,Wave 2,2025-08-12,Registry,Certified copy request,MS03,Afternoon,14.1,2,1,1,2,,0.0,2,2.0,2,0,2,2,2,2,2.0,1,1,8,Response was only available in one language.
+V0086,Wave 1,2025-02-17,Telephone,How to submit an appeal,MS03,Afternoon,2.6,0,1,2,2,,2.0,1,2.0,2,2,2,1,2,0,,1,2,7,Enquiry was not resolved and no next step was given.
+V0397,Wave 2,2025-08-27,Telephone,How to submit an appeal,MS07,Morning,1.4,1,1,0,2,,0.0,1,2.0,2,2,1,0,1,1,,1,1,6,Information on required documents was incomplete.
+V0378,Wave 2,2025-09-02,Telephone,Hearing date enquiry,MS07,Afternoon,0.3,2,2,1,2,,2.0,2,1.0,2,2,2,0,0,1,,2,2,8,Staff member was courteous and explained the steps clearly.
+V0445,Wave 2,2025-09-08,Social media,General service enquiry,MS04,Afternoon,303.6,0,0,0,2,1.0,,0,,1,1,0,2,0,2,,1,2,5,Enquiry was not resolved and no next step was given.
+V0065,Wave 1,2025-03-13,Telephone,How to submit an appeal,MS03,Morning,0.3,2,2,1,2,,2.0,2,2.0,2,2,2,1,1,2,,2,2,7,Correct fee and document list provided first time.
+V0111,Wave 1,2025-03-17,Telephone,How to submit an appeal,MS04,Morning,0.6,2,1,0,2,,2.0,2,2.0,2,0,1,2,0,0,,2,2,8,Agent could not transfer the call to the right department.
+V0197,Wave 1,2025-03-28,Registry,Case file inspection request,MS08,Morning,11.6,2,1,1,2,,2.0,2,2.0,2,1,2,2,2,2,1.0,1,2,10,Staff member was courteous and explained the steps clearly.
+V0351,Wave 2,2025-08-28,Email,Court fee enquiry,MS07,Morning,1144.8,2,2,2,2,0.0,,0,2.0,2,2,2,2,2,0,,2,2,9,Staff member was courteous and explained the steps clearly.
+V0060,Wave 1,2025-03-07,Email,Request for case status guidance,MS06,Morning,380.0,2,2,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0452,Wave 2,2025-09-01,Social media,Complaint escalation,MS04,Afternoon,246.5,0,1,2,2,2.0,,1,,2,1,2,2,2,1,,2,0,7,Information on required documents was incomplete.
+V0204,Wave 1,2025-03-17,Registry,Case file inspection request,MS05,Morning,13.8,2,2,2,2,,2.0,2,2.0,1,2,2,2,0,1,1.0,1,2,9,"Quick, helpful response with a link to the right e-service."
+V0372,Wave 2,2025-08-18,Telephone,How to submit an appeal,MS07,Afternoon,0.4,2,0,2,2,,0.0,0,2.0,2,0,0,1,1,1,,2,0,8,Information on required documents was incomplete.
+V0029,Wave 1,2025-02-24,Email,Request for case status guidance,MS01,Afternoon,488.6,2,2,2,0,2.0,,2,2.0,2,2,0,1,2,2,,2,2,8,Correct fee and document list provided first time.
+V0343,Wave 2,2025-09-05,Email,Document requirements for a claim,MS08,Morning,572.5,2,2,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0016,Wave 1,2025-02-13,E-mail,Filing procedure enquiry,MS04,Morning,233.8,2,2,2,1,2.0,,2,2.0,1,1,2,0,2,2,,2,1,7,Correct fee and document list provided first time.
+V0242,Wave 1,2025-03-03,Ancillary services,Notarisation / attestation,MS06,Morning,7.8,2,2,2,2,,0.0,0,2.0,2,1,1,0,2,2,2.0,1,0,5,Enquiry was not resolved and no next step was given.
+V0549,Wave 2,2025-08-06,Ancillary services,Visitor and accessibility support,MS04,Morning,5.6,2,0,2,2,,1.0,2,2.0,2,1,2,1,1,1,1.0,2,1,8,Enquiry was not resolved and no next step was given.
+V0227,Wave 1,2025-02-17,Registry,Case file inspection request,MS01,Afternoon,24.3,0,2,1,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,1,2,9,"Quick, helpful response with a link to the right e-service."
+V0417,Wave 2,2025-09-24,Telephone,Opening hours and location,MS07,Afternoon,0.5,2,1,2,2,,0.0,2,2.0,2,1,0,2,1,1,,1,2,9,Had to wait well beyond the expected time.
+V0019,Wave 1,2025-02-24,Email,Court fee enquiry,MS06,Afternoon,4512.9,0,1,0,2,2.0,,1,2.0,1,1,1,2,1,0,,0,2,6,Agent could not transfer the call to the right department.
+V0190,Wave 1,2025-02-10,Registry,Case file inspection request,MS04,Morning,4.1,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,1,2,10,Staff member was courteous and explained the steps clearly.
+V0022,Wave 1,2025-03-24,Email,Request for case status guidance,MS02,Afternoon,1541.4,1,2,2,2,2.0,,1,2.0,2,1,0,2,1,2,,2,1,7,Counter staff checked the documents carefully and issued a receipt.
+V0104,Wave 1,2025-03-25,Phone,Hearing date enquiry,MS03,Afternoon,0.8,2,1,1,2,,2.0,2,0.0,1,0,0,1,0,1,,2,1,6,Answer did not match the published procedure on the website.
+V0538,Wave 2,2025-09-17,Registry,Submitting documents at the counter,MS03,Morning,11.2,2,2,2,2,,2.0,2,2.0,2,2,2,2,2,2,2.0,2,2,10,Staff member was courteous and explained the steps clearly.
+V0272,Wave 1,2025-02-05,Ancillary services,Visitor and accessibility support,MS01,Morning,29.3,1,2,1,2,,0.0,2,1.0,2,2,0,1,2,1,2.0,0,2,8,Information on required documents was incomplete.
+V0329,Wave 2,2025-09-04,Email,Filing procedure enquiry,MS06,Afternoon,648.6,2,2,2,2,1.0,,2,2.0,2,2,1,2,2,3,,2,2,7,"Quick, helpful response with a link to the right e-service."
+V0307,Wave 2,2025-09-16,Email,Court fee enquiry,MS06,Morning,722.0,2,2,2,0,2.0,,1,1.0,2,2,2,2,2,2,,2,1,10,Correct fee and document list provided first time.
+V0080,Wave 1,2025-03-10,Telephone,How to submit an appeal,MS08,Afternoon,0.5,2,2,2,2,,0.0,2,2.0,1,1,2,2,2,0,,0,2,9,Answer did not match the published procedure on the website.
+V0409,Wave 2,2025-09-29,Telephone,How to submit an appeal,MS01,Morning,0.5,2,1,2,2,,1.0,1,2.0,0,2,2,0,1,0,,2,1,8,Agent could not transfer the call to the right department.
+V0174,Wave 1,2025-03-21,Social media,E-services login help,MS02,Afternoon,176.5,1,1,2,1,2.0,,1,,2,2,2,1,1,2,,0,1,8,Had to wait well beyond the expected time.
+V0297,Wave 1,2025-03-04,Ancillary services,Mediation information session,MS07,Morning,18.8,2,2,0,1,,0.0,1,2.0,1,0,2,0,1,2,0.0,2,1,6,Response was only available in one language.
+V0231,Wave 1,2025-03-10,Registry,Payment of court fees,MS07,Afternoon,18.2,1,1,2,0,,2.0,1,0.0,2,1,2,2,1,2,2.0,1,2,7,Enquiry was not resolved and no next step was given.
+V0185,Wave 1,2025-02-24,Registry,Payment of court fees,MS07,Afternoon,9.0,2,2,1,0,,1.0,0,0.0,1,0,0,1,0,0,0.0,0,2,3,Had to wait well beyond the expected time.
+V0312,Wave 2,2025-09-22,Email,Court fee enquiry,MS03,Afternoon,1745.7,1,2,2,2,2.0,,0,2.0,2,2,2,2,2,2,,2,2,10,Correct fee and document list provided first time.
+V0053,Wave 1,2025-02-21,Email,Court fee enquiry,MS03,Morning,977.6,2,2,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0565,Wave 2,2025-08-26,Ancillary services,Visitor and accessibility support,MS06,Afternoon,18.4,2,0,1,2,,0.0,2,2.0,2,1,1,0,0,2,0.0,2,2,8,Information on required documents was incomplete.
+V0416,Wave 2,2025-09-29,Telephone,How to submit an appeal,MS01,Afternoon,1.5,1,2,2,2,,2.0,2,2.0,2,2,1,2,2,1,,0,1,7,Staff member was courteous and explained the steps clearly.
+V0221,Wave 1,2025-03-12,Registry,Payment of court fees,MS07,Afternoon,3.4,2,1,1,2,,2.0,1,2.0,2,1,1,2,2,0,2.0,2,2,10,Correct fee and document list provided first time.
+V0438,Wave 2,2025-08-07,Social media,Complaint escalation,MS06,Morning,148.4,1,2,2,0,2.0,,2,,2,2,2,2,1,1,,2,2,8,Counter staff checked the documents carefully and issued a receipt.
+V0128,Wave 1,2025-03-04,Social media,Accessibility enquiry,MS02,Afternoon,410.6,0,1,2,1,2.0,,2,,2,2,0,0,1,0,,2,2,8,Enquiry was not resolved and no next step was given.
+V0299,Wave 1,2025-02-19,Ancillary services,Visitor and accessibility support,MS07,Morning,31.4,0,0,0,0,,2.0,1,2.0,1,0,0,0,1,1,0.0,2,1,5,Had to wait well beyond the expected time.
+V0421,Wave 2,2025-08-25,Social media,E-services login help,MS02,Morning,320.8,0,0,1,2,2.0,,0,,2,1,1,1,0,2,,0,1,5,Had to wait well beyond the expected time.
+V0381,Wave 2,2025-09-01,Telephone,How to submit an appeal,MS08,Morning,1.1,1,2,2,2,,2.0,1,2.0,2,2,2,2,1,0,,2,1,9,"Quick, helpful response with a link to the right e-service."
+V0235,Wave 1,2025-02-21,Registry,Submitting documents at the counter,MS02,Morning,6.1,2,2,2,2,,2.0,2,2.0,2,1,2,2,2,2,2.0,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0042,Wave 1,2025-03-26,Email,Request for case status guidance,MS08,Morning,2543.6,0,1,2,1,2.0,,0,1.0,2,2,0,1,0,2,,1,1,7,Response was only available in one language.
+V0091,Wave 1,2025-03-24,Telephone,Opening hours and location,MS01,Morning,0.6,2,2,2,2,,1.0,2,2.0,2,2,2,2,1,1,,2,1,9,Counter staff checked the documents carefully and issued a receipt.
+V0270,Wave 1,2025-02-26,Ancillary,Translation service enquiry,MS02,Afternoon,10.6,2,0,0,2,,0.0,2,1.0,1,0,0,1,1,2,0.0,1,1,6,Response was only available in one language.
+V0028,Wave 1,2025-02-12,Email,Court fee enquiry,MS06,Morning,1791.5,1,1,2,2,2.0,,2,2.0,2,2,2,2,2,2,,2,2,9,Counter staff checked the documents carefully and issued a receipt.
+V0477,Wave 2,2025-08-28,Social media,E-services login help,MS05,Morning,156.8,1,1,2,0,0.0,,0,,1,2,0,0,1,0,,1,0,6,Information on required documents was incomplete.
+V0449,Wave 2,2025-09-19,Social media,Accessibility enquiry,MS04,Morning,40.3,2,2,1,2,2.0,,2,,2,2,2,1,2,1,,2,2,10,Correct fee and document list provided first time.
+V0430,Wave 2,2025-09-04,Social media,General service enquiry,MS04,Morning,603.9,0,0,2,2,2.0,,2,,2,0,2,1,1,2,,1,2,10,Enquiry was not resolved and no next step was given.
+V0465,Wave 2,2025-09-05,Social media,Accessibility enquiry,MS07,Morning,356.5,0,1,2,1,0.0,,1,,1,2,1,0,1,2,,2,2,5,Information on required documents was incomplete.
+V0229,Wave 1,2025-03-31,Registry,Payment of court fees,MS01,Afternoon,approx 10,1,2,2,2,,2.0,2,2.0,2,2,0,2,2,1,2.0,2,2,10,"Quick, helpful response with a link to the right e-service."
+V0516,Wave 2,2025-08-18,Registry,Certified copy request,MS05,Morning,7.3,2,2,2,2,,1.0,2,2.0,2,1,2,0,2,1,2.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0145,Wave 1,2025-02-14,Social media,Complaint escalation,MS02,Afternoon,343.6,0,1,2,2,1.0,,2,,1,0,1,0,2,0,,1,2,5,Agent could not transfer the call to the right department.
+V0213,Wave 1,2025-02-03,Registry,Certified copy request,MS05,Morning,4.8,2,2,2,2,,2.0,2,2.0,2,1,2,2,2,2,2.0,2,2,9,Staff member was courteous and explained the steps clearly.
+V0368,Wave 2,2025-08-14,Phone,Hearing date enquiry,MS04,Afternoon,1.2,1,2,2,2,,2.0,2,2.0,2,2,0,2,2,0,,2,0,7,Correct fee and document list provided first time.
+V0358,Wave 2,2025-09-09,Email,Filing procedure enquiry,MS06,Afternoon,382.7,2,0,2,2,1.0,,2,2.0,2,0,2,2,2,2,,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0408,Wave 2,2025-08-11,Telephone,Opening hours and location,MS06,Afternoon,0.4,2,2,2,1,,2.0,1,2.0,0,1,2,2,0,2,,2,0,7,Enquiry was not resolved and no next step was given.
+V0230,Wave 1,2025-03-07,Registry,Certified copy request,MS04,Morning,19.8,1,2,2,2,,2.0,1,2.0,2,1,2,0,0,0,1.0,2,1,7,Agent could not transfer the call to the right department.
+V0041,Wave 1,2025-02-11,Email,Court fee enquiry,MS05,Afternoon,1855.0,1,2,2,2,2.0,,2,2.0,2,2,1,2,1,1,,0,2,10,Staff member was courteous and explained the steps clearly.
+V0207,Wave 1,2025-03-24,Registry,Submitting documents at the counter,MS05,Afternoon,28.0,0,2,1,2,,2.0,0,2.0,1,1,2,2,2,1,2.0,1,1,9,Had to wait well beyond the expected time.
+V0011,Wave 1,2025-02-27,Email,Filing procedure enquiry,MS08,Afternoon,1007.2,2,0,2,2,1.0,,2,2.0,1,2,1,2,2,2,,0,1,7,Response was only available in one language.
+V0486,Wave 2,2025-08-21,Registry,Case file inspection request,MS04,Afternoon,4.0,2,2,1,2,,2.0,2,1.0,2,2,2,1,2,2,0.0,2,2,10,Counter staff checked the documents carefully and issued a receipt.
+V0103,Wave 1,2025-03-17,Phone,Hearing date enquiry,MS04,Morning,0.9,2,2,2,2,,2.0,2,0.0,2,0,1,2,2,1,,1,1,7,Agent could not transfer the call to the right department.
+V0161,Wave 1,2025-02-19,Social media,E-services login help,MS02,Afternoon,167.2,1,0,2,1,1.0,,1,,2,1,2,1,1,1,,0,2,6,Answer did not match the published procedure on the website.
+V0212,Wave 1,2025-03-27,Registry,Submitting documents at the counter,MS06,Morning,7.0,2,2,2,2,,2.0,2,2.0,2,1,2,0,0,0,2.0,2,1,8,Agent could not transfer the call to the right department.
+V0324,Wave 2,2025-08-11,Email,Request for case status guidance,MS06,Morning,1158.6,2,2,1,2,1.0,,0,2.0,1,2,2,1,1,0,,0,1,7,Had to wait well beyond the expected time.
+V0505,Wave 2,2025-08-21,Registry,Payment of court fees,MS08,Morning,13.6,2,2,2,2,,2.0,2,1.0,2,1,2,1,1,2,2.0,1,2,9,Staff member was courteous and explained the steps clearly.
+V0589,Wave 2,2025-09-02,Ancillary services,Notarisation / attestation,MS08,Afternoon,26.0,1,1,2,2,,2.0,2,2.0,2,0,1,2,2,1,0.0,2,2,9,Information on required documents was incomplete.
+V0575,Wave 2,2025-09-05,Ancillary services,Notarisation / attestation,MS06,Afternoon,26.2,1,2,1,1,,1.0,2,2.0,2,2,1,2,1,2,2.0,1,1,9,Information on required documents was incomplete.
